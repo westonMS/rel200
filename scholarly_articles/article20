@@ -1,0 +1,819 @@
+Marriage, Children and Subjective Well-being
+Michael Shields
+Department of Economics, University of Melbourne
+and
+Mark Wooden
+Melbourne Institute of Applied Economic and Social Research,
+University of Melbourne
+Paper presented at the Eighth Australian Institute of Family Studies
+Conference – “Step Forward for Families: Research, Practice and Policy”.
+Melbourne Exhibition Centre, 12-14 February.
+Acknowledgements
+This paper is based on research supported by Australian Research Council Discovery
+Grant DP0342970. The authors also thank the Commonwealth Department of Family and
+Community Services, which funds the HILDA Survey, and the Melbourne Institute of
+Applied Economic and Social Research, University of Melbourne, the organization
+primarily responsible for the design and management of the HILDA Survey and the
+preparation and dissemination of the data.
+2
+Marriage, Children and Subjective Well-being
+INTRODUCTION
+Subjective well-being (from hereon, referred to as SWB) is an area of research that has
+the been subject of a great many empirical studies, the large majority of which have at
+least made some attempt to control for variations across individuals in familial
+characteristics. As observed by Diener et al. (1999) in their review of this literature,
+analyses of cross-section data have consistently found that married persons report being
+happier and more satisfied with their lives than unmarried persons. Such findings are
+consistent with the widely held view that marriage, by providing emotional and financial
+support, can directly enhance personal well-being.
+While, a priori, the effects of children are less certain, the omission of controls for
+parental status from analyses of inter-personal differences in happiness or life satisfaction
+would be no less noticeable. To the extent that they confer utility on parents, we would
+expect children to enhance personal well-being. On the other hand, children are costly
+and are often the source of considerable anxiety and stress, which can be expected to
+reduce life satisfaction. Very differently, it might be that most people either achieve the
+family size desired or come to be contented with the size achieved, and hence the
+presence of children would have no impact on SWB (Evans and Kelley 2002). In a
+review of the earlier research Diener (1984) concluded that most studies report that the
+presence of children either has a negative effect or no effect on SWB. More recent
+research is consistent with this observation, with some studies finding that a negative
+effect dominates (e.g., Clark and Oswald 1994, Marks and Fleming 1999, Clark,
+Georgellis and Sanfey 2001, Frijters, Haisken-DeNew and Shields 2002, Di Tella,
+MacCulloch and Oswald 2003), while others have reported insignificant relationships
+(e.g., Mastekaasa 1994a, Stack and Eshleman 1998, Evans and Kelley 2002).
+There is thus a clear consensus among researchers about the need to control for both
+marital and parental status when analyzing measures of SWB. Despite this, however,
+many studies of SWB have continued to treat family characteristics as little more than
+influences that once controlled for, can be safely ignored. Even among those studies that
+have focused specifically on the influence of the family, the emphasis has tended to be on
+one specific aspect.
+In this study we examine a number of related issues that have either tended to be
+neglected in previous research or have been considered in isolation of each other. First,
+we explicitly distinguish marital unions according to whether or not that union is the
+subject of a registered marriage. Second, we test whether there is a “honeymoon effect”
+associated with marriage by examining whether well-being changes with the length of a
+marriage. Third, we test whether the lower levels of well-being typically reported
+following separation and divorce dissipate with time. Fourth, among those in formal
+marriages we distinguish between first, second, and subsequent marriages, while among
+those cohabiting we distinguish between the never married and those who have been
+previously married. Fifth, in isolating the possible impacts of children on SWB, we
+distinguish children according to their age. Moreover, we move beyond the focus on
+3
+dependent children to consider whether the presence of adult children can impact on
+SWB. Sixth, we interact both the number of dependent children and the number of adult
+children with marital status.
+A final feature of this analysis of note is the data source – a large nationally
+representative sample of Australian households and their members. As previously
+observed by Stack and Eshleman (1998), existing evidence on the relationships between
+family structure and SWB has tended to be dominated by US data, and hence analyses
+employing data from other countries are needed to determine whether existing findings
+are culture specific. Additionally, the data set is extremely rich in its content, allowing
+inclusion of an extensive set of controls for other variables typically presumed to
+influence SWB.
+RESEARCH QUESTIONS
+Marriage vs Cohabitation: Is There a Difference?
+It has been well established that married individuals are happier and more emotionally
+stable than their unmarried counterparts (see Diener 1984, Coombs 1991 and Diener et al.
+1999 for reviews of this literature). One of the major reasons advanced to explain this
+finding is social isolation – unmarried persons are less happy because they are more
+likely to be living alone and absent the continuing companionship that we typically
+associate with marriage. However, if this is so, it follows that it is not the institution of
+marriage that is important for well-being, but living with other people, and in particular
+with a partner who can provide emotional and physical support. Alternatively, if it is
+commitment that makes formal marriage so rewarding, as is often argued (e.g.,
+Mastekaasa 1993, Waite and Gallagher 2000) and given a formal marriage implies a
+greater level of commitment thus enhancing the expectation of a long-term stable
+relationship (as argued by Evans and Kelley 2002), then we might expect the levels of
+SWB reported by unmarried couples to be lower than that reported by married couples.
+Somewhat surprisingly, given the marked rise in most Western countries in the numbers
+of persons choosing to live together as couples without marrying, these hypotheses have
+received relatively little attention from researchers. Most researchers instead have, at
+least implicitly, chosen to treat persons cohabiting in unmarried (or de facto)
+relationships as if they were either married or single (and in many cases it is unclear
+which assumption has been adopted). Notable exceptions here are Kurdek (1991),
+Mastekaasa (1994b), Stack and Eshleman (1998), Marks and Fleming (1999) and Evans
+and Kelley (2002). Kurdek (1991), using data from a nationally representative sample of
+US citizens, found that unmarried persons who cohabited reported happiness levels that
+were significantly higher than single persons but lower than those reported by married
+persons. Broadly similar results were obtained by Stack and Eshleman (1998) in their
+study using data from samples of individuals drawn from 17 different countries, and by
+Marks and Fleming in their Australian samples. Such findings are thus consistent with
+both the social isolation and commitment hypotheses. In contrast, Mastekaasa (1994b),
+using data from Norway, found that cohabitants reported levels of life satisfaction that
+were not significantly different from married persons, a result that possibly reflects the
+greater acceptance of cohabitation in Scandinavian countries. Evans and Kelley (2002),
+on the other hand, in their recent analysis of life satisfaction data collected from a large
+4
+sample of Australian citizens, could find no evidence that unmarried couples were
+happier than single persons. Indeed, for women they found that de facto relationships
+were associated with significantly lower levels of life satisfaction relative to the levels
+reported by women who had never married.
+One weakness of all of these studies is that the data employed are now quite dated and
+dominated by observations from the 1980s. The data used by Kurdek (1991), Mastekaasa
+(1994b) and by Stack and Eshleman (1998) were collected over the periods 1987 to 1988,
+1984 to 1986 and 1981 to 1983, respectively. Somewhat differently, Marks and Fleming
+(1999) used pooled panel data collected from four separate youth cohorts over the period
+1980 to 1995. Only for the oldest two cohorts, however, were individuals followed for
+very long (i.e., beyond the age of 24 years), and in both of these cases the majority of
+data points were from the 1980s. Finally, the data used by Evans and Kelley (2002)
+comprised pooled cross-section observations collected in a number of waves over the
+period 1984 to 2001. Nevertheless, the earlier waves were by far the largest and hence the
+majority of their sample came from the period 1984 to 1989.
+This predominance of 1980s data is of large importance when considering the
+experiences of citizens of Anglo-Saxon societies, such as the USA and Australia. In both
+these cases the treatment of de facto couples by judicial and government institutions has
+clearly been changing over time. Indeed, at the start of the 21st century, persons living in
+de facto relationships can, in Australia at least, expect the same legal rights as married
+persons. As a result, it is now relatively uncommon for individuals to enter formal
+marriage without a period of preceding cohabitation – 72 per cent of those who married
+in Australia in 2001 cohabited prior to marriage (ABS 2002). We thus expect that, in
+more recent data, differences in the levels of SWB between persons living as couples in
+legal marriages and those living together without being married are likely to be very
+small.
+Does SWB Decline with Marriage Duration?
+A widely held belief is that marital satisfaction is highest during the initial years of
+marriage – the honeymoon effect – and then gradually declines with duration of marriage.
+Moreover, such views receive empirical support from panel studies on marital success
+and failure (e.g., Glenn 1998, VanLaningham, Johnson and Amato 2001). Cross-section
+analysis, however, is complicated by selection effects. That is, unhappy marriages are
+more likely to end in separation (and divorce) and hence the longest marriages are also
+likely to be the happiest. This suggests that any inverse relationship between marriage
+duration and SWB will be under-estimated, especially at the upper end of the distribution.
+Indeed, we might expect the relationship between duration of marriage and SWB to be
+best captured by a quadratic specification, with a U-shaped relationship expected (as is
+often found in research on marital satisfaction). That is, SWB is likely to be greatest for
+persons in both new marriages and long-running marriages.
+Does SWB Recover Following Separation and Divorce?
+Another well established finding is that among single people, it is the divorced that
+express the lowest levels of SWB (see Amato 2000 for a recent review). Most researchers
+explain this in terms of stress. The process of separation and divorce is typically stressful,
+even if anticipated, and invariably involves major changes in a person’s life. Thus even if
+5
+separation is perceived is desirable, it is still likely to induce considerable stress. Where
+researchers are in less agreement is over the question of whether such effects are
+permanent or transitory. As summarized by Amato (2000, p. 1273), in one perspective –
+the crisis model – separation and divorce are stressful experiences that individuals
+gradually adjust to and eventually return to their pre-separation level of functioning. In
+contrast, in the chronic strain model, separation and divorce is associated with strains and
+hardships that are more permanent, such as loneliness and increased financial stress.
+Are Persons in Second Marriages Any Less Happy than Persons in First Marriages?
+Of course, one obvious solution to both loneliness and financial pressures is remarriage,
+but are second (and subsequent) marriages associated with the same (or higher) levels of
+SWB experienced during the first marriage? Empirical research on this issue is both
+relatively limited and mixed in terms of findings. Studies that have focused on
+differences in marital happiness across marriages (as distinct from global measures of
+SWB) have typically not found significant differences between first and second
+marriages (e.g., Johnson and Booth 1998, Rogers 1999), a result which is consistent with
+Evans and Kelley (2002), who found in their Australian cross-section that persons who
+have re-married are no less satisfied with their lives than persons in their first marriage.
+Longitudinal studies of marriage transitions, however, are less positive. Spanier and
+Furstenberg (1982), for example, could find little evidence that remarriage enhanced the
+well-being of previously divorced persons, though arguably their sample was too small to
+reveal significant associations. More positive results were reported by Marks and
+Lambert (1998) using a much larger nationally representative sample, though again
+statistical significance was generally not achieved.
+Do Children Raise or Lower SWB?
+As noted earlier, there is considerable evidence to suggest that persons with dependent
+children have lower levels of SWB than those without dependents, findings that have
+been interpreted by some (e.g., McLanahan and Adams 1987) as symptomatic of the
+decline in the economic benefits of children and one of the factors contributing to the
+decline in fertility levels in most Western nations. A more complete assessment of the
+perceived benefits of children, however, requires adopting a lifetime perspective. Marks
+and Fleming (1999), for example, argue that the relationship between children and SWB
+is likely to be age (and gender) specific. Most obviously, younger children will be both
+more demanding on the time of parents than older children and impose greater costs
+(especially childcare costs). This suggests the need for interacting measures of the
+presence of children with their age. Like most researchers, however, Marks and Fleming
+are only concerned with children living at home. They thus ignore the potential benefits
+that children might provide to their parents after leaving home. Research on SWB needs
+to take into account not just the impact of children when young, but their impact as they
+mature. Nevertheless, while there are a number of studies of the impact of childlessness
+on the SWB of older adults (e.g., Koropeckyj-Cox 1998, 2002, Zhang and Hayward
+2001), we are unaware of any study that has attempted to examine how the impact of
+children of different ages, and including adult children, impacts on SWB within a more
+general population sample.
+6
+Do the Effects of Children on Parental Well-being Vary with Marital Status?
+Studies of SWB have generally assumed that any effects from children will impact on all
+parents equally. There are, however, good reasons to expect that children will interact
+with marital status in their impact on parents’ well-being. Most obviously, we would
+expect the costs of children, both in economic and psychological terms, to be greater for
+single parents than married parents (Glenn and Weaver 1979). In the case of divorced
+parents the effects may be especially acute. It has been established, for example, that the
+adjustment by mothers to divorce is negatively associated with the number of children
+(e.g., Garvin, Kalter and Hansell 1993).
+DATA AND METHOD
+Sample
+The data used in this analysis come from the first wave of the Household, Income and
+Labour Dynamics in Australia (HILDA) Survey. Described in more detail in Watson and
+Wooden (2002a), the HILDA Survey is based on similar studies conducted in both
+Germany and the UK (the German Socio-Economic Panel and the British Household
+Panel Survey respectively). The HILDA Survey thus involved the selection of a large
+nationally representative sample of households and then seeking interviews with
+members of those households. Specifically, a household interview was sought with at
+least one adult member. Individual interviews were then sought with all household
+members over the age of 15 years on the 30 June preceding interview. In addition to the
+collection of data through personal interview, all persons completing a personal interview
+were given a self-completion questionnaire that they were asked to return after
+completion either by mail or by handing it to the interviewer at a subsequent visit to the
+household. Almost all of the interviews were conducted during the period between 24
+August 2001 and 21 December 2001.
+Households were selected into the sample by a multi-stage process. First, a random
+sample of 488 Census Collection Districts (CDs), based on 1996 Census boundaries, was
+selected from across Australia (each of which consists of approximately 200 to 250
+households). Second, within each of these CDs all dwellings were fully enumerated and a
+sample of 22 to 34 dwellings randomly selected.1
+ Third, given dwellings can contain
+more than one household, rules were devised for the selection of households within
+dwellings. These rules stipulated that where a dwelling contained three or fewer
+households, all such households should be sampled. Where there were four or more
+households occupying one dwelling, all households had to be enumerated and a random
+sample of three households obtained (based on a predetermined pattern).
+After adjusting for out-of-scope dwellings (e.g., unoccupied, non-residential) and
+households (e.g., all occupants were overseas visitors) and for multiple households within
+dwellings, the total number of households identified as in-scope was 11,693. Interviews
+were completed with all eligible members at 6872 of these households and with at least
+one eligible member at a further 810 households. The total household response rate was,
+therefore, 66 per cent.
+Within the 7682 households at which interviews were conducted, there were 19,917
+people. Of this group, 4790 were under 15 years of age on the preceding 30 June and
+7
+hence were ineligible for an interview in Wave 1. This left 15,127 persons eligible for a
+personal interview, 13,969 of whom completed the Person Questionnaire.
+As discussed in Wooden et al. (2002), these response rates compare favourably with the
+rates achieved in the first waves of similar major household panel surveys. They are also
+well in excess of the rates typically reported in other Australian surveys that have
+attempted to measure life satisfaction. More importantly, comparison with population
+benchmark data from official Australian Bureau of Statistics (ABS) sources suggests that
+the sample has characteristics that are broadly in line with what would have been
+expected if the sample were truly random. There is, however, at least one major disparity,
+with residents from Sydney under-represented, a result that Wooden et al. (2002) attribute
+to both greater difficulties making contact with some Sydney residents (e.g., those in
+living in high-rise apartments) and a greater reluctance to participate because of time
+commitments.
+Measuring SWB
+The dependent variable used in this analysis is a subjective measure of global life
+satisfaction. It comprises a single item scored on a 0-10 scale. The item was worded as
+follows:
+“All things considered, how satisfied are you with your life?”
+A visual aid (i.e., a show card) was then used to graphically portray the scale respondents
+were to use in answering this question. Only the extreme values on the scale were
+labelled, with a score of 0 described as “totally dissatisfied” and a score of 10 as “totally
+satisfied”.
+While single-item measures are often regarded as problematic, in the area of SWB it has
+been well-established that single item measures perform as well as, if not better than,
+multi-item measures (e.g., Andrews and Withey 1976). As a consequence, their use is
+widespread. The item used here, for example, is very similar to an equivalent item that
+has been asked as part of the German Socio-Economic Panel since 1984, and has formed
+the basis for a number of studies into life satisfaction in that country (e.g., Winkelmann
+and Winkelmann 1998, Clark et al. 2001, Frijters et al. 2002). It is also very close to the
+overall life satisfaction item used in the World Values Survey (Inglehart et al. 2000).
+A summary of the distribution of responses to the life satisfaction question is provided in
+Table 1. As can be seen, responses are highly skewed towards high levels of satisfaction,
+with the modal response being 8, but with almost 40 per cent selecting 9 or 10. Given the
+possibility of bias as a result of self-selection (i.e., a tendency for the most happy to be
+more likely to respond), we also report the distribution after weighting the population to
+reflect established population norms. The distribution is almost identical, but with a very
+small difference at the upper end of the distribution. In other words, the impact of selfselection on measured life satisfaction appears to be minimal.
+8
+TABLE 1. OVERALL LIFE SATISFACTION: DISTRIBUTION OF RESPONSES
+Unweighted Weighted
+Response N %
+(of valid N)
+N %
+(of valid N)
+0 38 0.3 42456 0.3
+1 31 0.2 32049 0.2
+2 79 0.6 83989 0.6
+3 123 0.9 133417 0.9
+4 192 1.4 210047 1.4
+5 737 5.3 793415 5.3
+6 838 6.0 923969 6.1
+7 2387 17.1 2662915 17.6
+8 4132 29.6 4466742 29.6
+9 2676 19.2 2861904 19.0
+10 2718 19.5 2888406 19.1
+Don’t know / not stated 18 20234
+Total 13969 15119543
+In Table 2 we report mean life satisfaction scores (together with standard deviations)
+disaggregated by sex, marital status and the presence of dependent children under the age
+of 15 years. The figures reported in this table indicate that:
+i. consistent with the figures reported in Table 1, weighting the data to population
+norms has a very small and ultimately negligible impact on mean life satisfaction;
+ii. women were slightly more likely to report higher levels of life satisfaction than
+men, a result that is consistent with other recent evidence for Australia (see
+Cummins et al. 2001);2
+
+iii. in line with previous research, married people report noticeably higher levels of
+life satisfaction than single persons, while the least satisfied of all are separated
+and divorced persons; and
+iv. for all gender and marital status groups, the presence of dependent children is
+associated with noticeably lower levels of self-reported life satisfaction.
+Method
+A multivariate regression framework is used to identify and quantify the impact of family
+characteristics on the level of life satisfaction. The dependent variable, however, does not
+have the properties usually assumed for ordinary least squares estimation. The dependent
+variable is a subjective assessment of an individual’s life satisfaction scored on an ordinal
+scale, in this case ranging from 0 to 10. This variable is thus clearly not linear (since it is
+truncated at 0 and 10) and there is the strong likelihood that least squares estimation
+would give rise to out-of-range predictions (especially given the relatively large number
+of cases at the upper limit). Furthermore, no significance can be attached to the unit
+9
+distance between the set of observed values on this scale. That is, it cannot be assumed
+that the distance between say 8 and 9 on this scale is the same as the distance between 3
+and 4. The ordered probit model was specifically developed for such situations and hence
+is employed here. It is important to realise that while more conventional least squares
+results provide qualitatively similar results (that is, the signs and significance levels on
+explanatory variables are mostly unaffected by the choice of estimator), the estimated
+magnitude of the impacts can and does vary quite noticeably.
+TABLE 2. OVERALL LIFE SATISFACTION: SAMPLE MEANS (AND STANDARD DEVIATIONS)
+BY SEX, MARITAL STATUS AND PRESENCE OF DEPENDANTS
+With
+dependants
+No
+dependants
+Total
+Men
+Couple – married 7.87 (1.46) 8.27 (1.59) 8.10 (1.55)
+Couple – cohabiting 7.63 (1.72) 7.94 (1.50) 7.83 (1.59)
+Single – separated 6.71 (2.19) 7.05 (2.17) 7.01 (2.17)
+Single – divorced 7.06 (1.73) 7.21 (2.10) 7.20 (2.17)
+Single – widowed 8.00 (2.65) 8.14 (1.77) 8.14 (1.78)
+Single – never married 6.75 (2.13) 7.71 (1.73) 7.70 (1.74)
+Total 7.81 (1.53) 7.94 (1.72) 7.90 (1.67)
+Women
+Couple – married 8.06 (1.56) 8.35 (1.57) 8.23 (1.54)
+Couple – cohabiting 7.81 (1.78) 6.72 (1.87) 7.88 (1.67)
+Single – separated 6.72 (1.87) 6.83 (2.30) 6.78 (2.11)
+Single – divorced 7.14 (1.78) 7.49 (1.84) 7.39 (1.82)
+Single – widowed 7.62 (1.56) 8.36 (1.61) 8.35 (1.61)
+Single – never married 6.98 (2.12) 7.91 (1.55) 7.80 (1.65)
+Total 7.84 (1.67) 8.10 (1.65) 8.02 (1.66)
+Note: Figures in parentheses are standard deviations.
+In addition to controls for marital status and children, all estimated equations include an
+extensive array of controls. While the make-up of the set of control variables is largely
+data driven, the HILDA Survey dataset is very rich, and hence the set of variables
+included here is very broad. Stack and Eshleman (1998), for example, are only able to
+include controls for sex, age, church attendance, education, employment status,
+subjective health and satisfaction with financial situation (and the last two of these
+controls are clearly endogenous). In this analysis a more extensive array of controls are
+available. Specifically, we include controls for: age, which following other recent
+research (e.g., Clark et al. 2001, Frijters et al. 2002, Di Tella et al. 2003) is specified as a
+quadratic; country of birth; English language ability; the presence of health conditions
+and disabilities disaggregated by severity; education; employment status; the number of
+other persons in the household (that is, other than a partner or own childen); household
+10
+income per ‘equivalised’ household member3
+; home ownership; the importance of
+religion (assessed on an 11-point scale); an individual’s discount rate (as represented by
+the length of time horizon for savings and investment decisions); whether the respondent
+was living with both of their own parents at age 14; locality (represented here by 487
+dummy terms for each of the CDs sampled, less one omitted to act as the reference
+group); the degree of suspicion about the interview (as assessed by the interviewer); and
+the presence of other adults during the interview.
+A common practice in research employing multiple regression analysis is to omit cases
+where there is missing data on any variable of interest, raising the possibility of selection
+bias. We largely avoid this problem by creating dummy variables identifying nonresponse on items where non-response is relatively high. This was of most importance
+when dealing with household income. According to Watson and Wooden (2002b) an
+estimate of total household gross income can only be derived in 71 per cent of cases in
+the HILDA Survey sample, a result of both missing data on some income components
+and non-respondents within households.
+Finally, all models are estimated separately for men and women. As observed by Stack
+and Eshleman (1998, p. 528), this is likely to be of particular importance for analyzing
+the effects of marriage given widespread beliefs that marriage benefits men more than
+women. More generally, the estimation of gender-specific models is becoming much
+more widespread, with the hypothesis of parameter equality typically rejected in large
+samples (e.g., Clark et al. 2001, Frijters et al. 2002).
+RESULTS
+The results from the ordered probit estimation of our basic model are reported in Table 3.
+A summary of various extensions to this model is then reported in Table 4. The first point
+to note about the results reported in Table 3 is that most of the coefficients on the control
+variables are in line with both expectations and previous research. Thus we find that:
+(i) age exhibits the U-shaped relationship with life satisfaction found in multivariate
+research employing large samples (with life satisfaction lowest at around 44 years
+for men and 42 years for women);
+(ii) life satisfaction is lowest for persons from a non-English speaking background,
+especially women, and especially if their English language speaking ability is poor;
+(iii) the effects of education on life satisfaction, while relatively small, are negative,
+possibly the result of high aspirations that have yet to be met (Clark and Oswald
+1994);
+(iv) levels of life satisfaction are strongly affected by the presence of health conditions
+and disabilities that limit activity;
+(v) persons not in employment but who are actively looking for work (that is, the
+unemployed) express the highest levels of dissatisfaction, while the most satisfied
+are persons who are neither employed nor looking for work (so long as this
+situation is not the result of poor health);
+11
+(vi) the presence of persons other than immediate family members in the household has
+predictable effects, with children enhancing satisfaction of men but reducing it for
+women, and adults enhancing satisfaction of women but not men;
+(vii) satisfaction levels rise with household income per head, though the magnitudes of
+the estimated coefficients suggest that the effect is relatively small and that very
+large increases in income are required to raise life satisfaction scores by even one
+point on the scale;
+(viii) homeowners tend to be more satisfied with their lives than renters;
+(ix) religion tends to be an influence that enhances life satisfaction;
+(x) persons who are more forward looking in their financial planning and savings
+behaviour are more satisfied, though the effect is only pronounced among women;
+and
+(xi) more stable home environments when young (as represented by living with two
+parents at age 14) are associated with greater levels of life satisfaction.
+One unexpected finding is the coefficient on the indigenous identifier. Other things held
+constant, Aboriginal and Torres Strait Islander men score higher on the life satisfaction
+scale than non-indigenous men. Moreover, the size of the effect is relatively large.
+Among indigenous women, the size of the differential is smaller, and statistically
+insignificant.
+The second point about these results that should be noted is that while the overall
+explanatory power of model is impressive, we nevertheless are still only explaining a
+minority of the variation in the dependent variable. This is not particularly surprising and
+is consistent with the view that by far the most important predictors of variations across
+individuals in well-being are unobserved influences, and especially personality traits.
+The third point to note is that while the types of influences on life satisfaction are broadly
+the same for men as they are for women, as hypothesized, the magnitude of the estimated
+coefficients are different, and a formal test provides strong support for rejecting the
+hypothesis of parameter equality.4
+
+We turn now to the results on the variables at the center of this analysis.
+Marital Status
+Looking first at the estimated coefficient on the variable representing married persons we
+find, consistent with previous research, that married persons are indeed more satisfied
+with their lives than non-married persons. Note further that the magnitude of the
+estimated coefficient in the male equation is not significantly different from that in the
+female equation. In other words, there is little support in these data for the hypothesis that
+marriage benefits men more than it does women.
+These results also suggest that the adverse effects of marital disruption on SWB may not
+be as large, and certainly not as long lived, as is usually assumed. While it is true that
+persons who are currently single as a result of a separation or divorce are the least
+satisfied, compared with other single persons the size of the effect is only significant for
+women, and even then the effect largely disappears by the time a divorce is finalized. In
+12
+other words, after an initial adjustment period, levels of life satisfaction among divorcees
+are no different than among other single people who have never married.
+Marriage vs Cohabitation
+The results reported in Table 3 suggest that the advantages from marriage for SWB
+mainly flow through the benefits from companionship rather than from some
+commitment effect. As with persons living in registered marriages, persons cohabiting (or
+living in de facto marriages) are also more likely, other things held constant, to report
+being satisfied with their lives than persons without a partner. Furthermore, while the
+estimated coefficients suggest that persons in formal marriages are, on average, more
+satisfied than persons in de facto marriages, the size of that differential is not large
+enough to achieve statistical significance at conventional levels. This finding provides
+some support for our hypothesis that differences between married relationships and
+cohabiting relationships in 2001 are likely to be relatively small.
+Of note, this result does appear to be sensitive to model specification. In particular, the
+gap between the coefficients on the married and cohabitant dummies widens noticeably
+when the location dummies are excluded suggesting that there is a tendency for married
+and cohabiting couples to live in distinctly different locations, and it may be these
+differing patterns of residential location that explain part of the raw differential in SWB
+between married and cohabiting couples.
+Marriage and Partnership Duration
+To examine the question of whether or not the higher levels of life satisfaction reported
+by both married and cohabiting persons declines over time, we augmented the basic
+specification with measures of marriage duration and duration of cohabitation. As can be
+seen from panel I in Table 4, some limited evidence in support of the hypothesis that
+overall life satisfaction declines with duration of partnership among both married and
+cohabiting couples was found. Among married persons, however, the effect was only
+significant for men and even then the relationship was relatively weak. In contrast,
+duration effects were much more important for cohabiting relationships. Further, we
+found evidence of a curvilinear relationship (which we suspect reflects selection effects)
+with life satisfaction beginning to rise for long-term cohabiting couples (after about 10 to
+11 years together). We admit, however, that cross-section data provides at best a crude
+test of duration effects, especially given the high correlation between the duration
+variables and age.
+Finally, it also should be noted that once years of marital and cohabiting duration are
+controlled for, the relatively small difference in life satisfaction between persons in these
+two different types of relationships disappears. In other words, differences in life
+satisfaction between persons in marriages and in cohabitations do exist, but the difference
+is only significant when comparing partnerships that are relatively long lasting.
+Time Elapsed Following Separation and Divorce
+As already noted, the differences in life satisfaction between divorced persons and other
+otherwise comparable single persons are not large (and never statistically significant). It
+thus should not be surprising that we find little impact from including variables
+representing the time elapsed since separation. Again the results are reported as part of
+13
+panel I in Table 4. A weakly significant association was found for men but not for
+women. Overall, the results suggest that the short-term negative impact of separation is
+more marked for women, but most women have almost completely adjusted by the time
+divorce is finalized. In contrast, for men the negative impact of separation, while weaker,
+is more protracted.
+Previous Marriages
+We next tested whether life satisfaction varies with the number of times married. We also
+distinguished between previous marriages that ended as a result of marital separation and
+divorce or that those that ceased a result of the death of a partner. This distinction,
+however, did not appear to matter and hence the results are not reported here.
+A summary of the key coefficients is provided in panel II of Table 4. The results are
+striking. Women in their second or subsequent marriage are no more (or less) satisfied
+with their lives than comparable women still in their first marriage. In contrast, for men
+there is a clear pattern of life satisfaction scores rising with each successive marriage,
+particularly where the previous marriage was terminated by separation and divorce. In
+other words, while marriage in general may not benefit men more than it does women,
+remarriage would seem to.
+Again, however, we urge caution in the interpretation of these results. First, the
+differences between these coefficients for men are only significant at the 90 per cent
+confidence level. Second, despite the extensive array of controls included in our model,
+we cannot be sure that we are comparing like with like when we compare the coefficients
+on first marriages with those on subsequent marriages. To be sure of this we really need
+panel data. Nevertheless, the usual presumption is that any selection effects should cause
+the estimates on happiness in first marriages to be biased upwards (since less satisfied
+people will tend to be relatively more numerous among the divorced), which would only
+strengthen the results presented here.
+As a complement to these results, we also looked at whether life satisfaction differs
+among cohabitants according to whether or not those cohabitants were previously
+married or not. In this case, however, whether the previous marriage ended as a result of
+divorce or because of the partner’s death did appear to matter, especially for men.
+Specifically, the point estimates suggest that cohabitation does tend to help offset the
+adverse effects of both separation and widowhood on life satisfaction, though the
+coefficients are only large enough to achieve statistical significance (when compared
+with cohabitants who have never married) for male widowers.
+Children
+Consistent with most recent research, the results reported here suggest that the SWB of
+parents is adversely affected by the presence of dependent children in the household with
+these negative effects rising with the number of children. Somewhat surprisingly,
+however, there was little evidence that the size of the effect varied with the age of those
+dependent children.5 What is clear is that there is a marked difference between dependent
+children, who impact negatively on life satisfaction, and independent children who live in
+the parental home, who have no impact. Such findings underscore the importance of
+economic considerations in influencing SWB. Life satisfaction is also clearly enhanced
+14
+by the presence of adult children who have left home. Moreover, the magnitudes of these
+positive coefficients are very similar in size to the negative coefficient on the dependent
+children variable. In other words, much of the gains to parenting (at least from the
+perspective of the parent) take many years to be realized. Thus in contrast to much of the
+earlier research which implied that parenting was not a rational decision, these findings
+suggest the reverse – from the perspective of the parent, children are an investment in
+their future well-being. That said, without panel data that extend over an individual’s life
+cycle we cannot be certain that these results are not simply the result of cohort effects
+(since people with adult children will tend to come from an older cohort than those with
+younger children).
+Also of interest, our results suggest that parents’ well-being is inversely related to the
+number of young children who do not live with the parent (e.g., as a result of custodial
+arrangement following marital separation). The coefficient is particularly large for
+women, but the relatively small number of women in this situation in our sample renders
+the estimate very imprecise. Even for men, who are much more likely to be the noncustodial parent following separation, the coefficient is only significant at the 90 per cent
+confidence level.
+Children and Marital Status
+The final extension of our life satisfaction reported here involved interacting both the
+number of dependent children living at home and the number of adult children living
+elsewhere with marital status. The results are reported in panel III of Table 4. Note that
+for this analysis we included dependent students between the ages of 15 and 24 in the
+definition of dependent child.
+As can be clearly seen, the effects of children on parents’ life satisfaction vary markedly
+with parents’ marital status. As expected, the negative effect of dependent children is
+especially marked for single parents, and especially those who have never been married
+(though due to relatively small numbers, the effect is only statistically significant for
+mothers). At the other extreme, the number of dependent children has no effect at all on
+the overall life satisfaction of married mothers. Note also that while the life satisfaction
+of married and cohabiting couples was not found to be noticeably different, the two
+groups would appear to be different, especially if female. While children do not impact
+adversely on the satisfaction of married mothers they do on that of mothers in cohabiting
+unions.
+The positive impact of adult children on satisfaction is also not constant across marital
+groups. It is generally most positive for married persons and for widows and widowers.
+They also enhance the satisfaction of divorcees, but only the men. Adult children
+generally do not enhance the satisfaction of persons cohabiting or persons who have
+never married. Indeed for men in the latter category the presence of such children has a
+marked negative impact on their life satisfaction score.
+15
+TABLE 3. ORDERED PROBIT RESULTS – BASIC SPECIFICATION
+Males Females
+b SE b SE
+Marital status
+Couple – married .343** .055 .291** .053
+Couple – cohabiting .243** .061 .218** .058
+Single – separated -.105 .097 -.356** .081
+Single – divorced -.092 .078 -.057 .069
+Single – widowed .044 .119 .129# .076
+Children
+No. of dependent children <15 yrs -.047** .017 -.036* .016
+No. of dependent students -.027 .039 -.054 .036
+No. of other own children in h’hld .020 .035 -.004 .030
+No. of children <15 elsewhere -.058# .035 -.138 .085
+No. of adult children elsewhere .046** .014 .050** .013
+Control variables
+Age -.042** .006 -.030** .005
+Age squared .047 (x10-2)** .006 (x10-2) .035 (x10-2)** .005 (x10-2)
+Aboriginal / Torres Strait Islander .376** .117 .220* .093
+Immigrant (main-English
+speaking country) .048 .044 .091* .044
+Immigrant (other country) -.045 .049 -.111* .046
+Poor English language ability -.226** .078 -.367** .071
+Disability / health condition
+Severe -.661** .134 -.780** .146
+Moderate -.436** .043 -.494** .040
+ Minor -.185** .052 -.110# .057
+Education
+Degree -.213** .047 -.174** .041
+ Diploma -.173** .055 -.125* .052
+Certificate level 3 or 4 -.044 .038 -.133** .048
+Certificate level 1 or 2 -.115# .061 -.043 .046
+Completed high school only -.109* .050 -.092* .046
+ Education unknown .081 .111 -.195* .077
+Labour force status
+ Self-employed .074 .075 .238** .090
+Owner manager .237** .087 .476** .112
+Full-time employee .160* .065 .265** .074
+ Part-time employee .121 .075 .347** .074
+Not in labour force due to:
+Incapacity / health .029 .084 .148 .092
+Retired .307** .086 .472** .088
+Studying .328** .094 .271** .095
+Other reason .300** .099 .485** .075
+No. of other children in h’hld .100** .036 -.063# .035
+No. of other adults in h’hld .015 .022 .059** .022
+Log household income per person .070** .022 .070** .021
+Household income negative .692* .295 .584* .266
+Household income missing .694** .228 .695** .218
+Renting home -.157** .037 -.136** .035
+Live in home rent free -.253** .096 -.043 .092
+16
+TABLE 3 (cont’d)
+Males Females
+b SE b SE
+Importance of religion .035** .004 .031** .004
+Savings time horizon .023* .010 .050** .009
+Savings time horizon missing -.065 .057 .043 .055
+Lived with both parents at age 14 .095* .039 .077* .037
+Other adult present during ivw .105** .030 .111** .029
+Suspicious of interview questions -.160* .063 -.078 .065
+Log likelihood – constant only (Lr) -11847.6 -12986.6
+Log likelihood (Lu) -11007.8 -12007.9
+Pseudo R-squared 0.232 0.244
+Likelihood ratio test (chi-squared) 1531.4** 1813.8**
+No. of observations (n) 6583 7298
+Notes: 1. **, * and # denote statistical significance at the 1, 5 and 10 per cent levels, respectively, in a
+two-tailed test.
+2. All equations also include a set of 487 dummy terms to control for differences across locality.
+In both models, these terms were jointly significant.
+3. The pseudo R-squared measure is based on the size of the estimated (or unrestricted) loglikelihood function (Lu) relative to the size of the (restricted) log-likelihood (Lr) when all
+parameters except the constant term are set to zero. The particular formula used here is:
+ [1-e2(Lr-Lu)/n] / [1-e
+2Lr/n]
+17
+TABLE 4. ORDERED PROBIT RESULTS, SELECTED PARAMETERS – MODEL EXTENSIONS
+Males Females
+b SE b SE
+I Year married -.0035# .0019 -.0001 .0018
+ Years cohabiting -.057** .021 -.036# .020
+Years cohabiting squared .0026** .0009 .0019* .0009
+ Years separated .013# .007 .003 .005
+ Years widowed -.008 .011 .003 .005
+Couple – married .395** .062 .288** .059
+Couple – cohabiting .389** .084 .293** .081
+Single – separated -.204* .103 -.379** .085
+Single – divorced -.257* .110 -.083 .093
+Single – widowed .013 .170 .146 .108
+II Married
+First marriage .337** .056 .289** .054
+Second marriage .460** .076 .268** .073
+Third + marriage .694** .173 .318** .161
+Cohabiting
+Never married .205** .066 .227** .064
+One marriage; divorced .264* .103 .173# .094
+One marriage; widowed 1.101** .373 .805** .309
+Two + marriages; all divorced .400* .195 .168 .193
+Two + marriages; widowed at least once 1.488* .646 -1.508# .772
+III No. of dependent children interacted with:
+ Couple – married -.039* .018 -.009 .018
+Couple – cohabiting -.068# .040 -.069# .038
+Single – separated or divorced -.101 .089 -.093* .042
+Single – widowed .427# .244 -.191 .167
+Single – never married -.220 .164 -.185** .048
+No. of adult children living elsewhere
+interacted with:
+Couple – married .046** .016 .062** .016
+Couple – cohabiting .035 .043 .023 .045
+Single – separated or divorced .070* .034 .019 .031
+Single – widowed .041 .061 .061* .029
+Single – never married -.352** .136 .019 .111
+Note: **, * and # denote statistical significance at the 1, 5 and 10 per cent levels, respectively, in a twotailed test.
+18
+SUMMARY
+• Couples are, on average, much more satisfied with their lives than single persons.
+• Any difference in life satisfaction between married couples and cohabiting
+couples is small and confined to long-standing relationships.
+• Differences in life satisfaction between formerly married persons and other single
+persons are only marked for women, and even then the reported life satisfaction
+scores of most of these women have almost completely recovered to the level of
+other single women by the time divorce is finalized.
+• Remarriage appears to benefit men more than women, with the life satisfaction of
+married men rising with each subsequent marriage. In contrast, women are no
+more (or less) happy in a second marriage.
+• Life satisfaction declines with the number of dependent children living at home
+but rises with the number of adult children who have left home.
+• Dependent children who live elsewhere have a depressing effect on life
+satisfaction (though large standard errors mean relatively little confidence can be
+attached to this result).
+• The negative effects of young dependent children are very large for single parents
+but non-existent for married mothers.
+19
+REFERENCES
+Amato, P.R. (2000), ‘The Consequences of Divorce for Adults and Children’, Journal of
+Marriage and the Family 62, November, 1269-1287.
+Andrews, F.M. and Withey, S.B. (1976), Social Indicators of Well-being: Americans’
+Perceptions of Quality of Life, Plenum Press, New York.
+Australian Bureau of Statistics [ABS] (2002), Marriage and Divorces 2001 (ABS cat. no.
+3310.0), ABS, Canberra.
+Blanchflower, D.G. and Oswald, A.J. (2003), ‘Well-being over Time in Britain and the
+USA’, Journal of Public Economics, forthcoming.
+Clark, A., Georgellis, Y. and Sanfey, P. (2001), ‘Scarring: The Psychological Impact of
+Past Unemployment’, Economica, 68, 221-241.
+Clark, A. and Oswald, A.J. (1994), ‘Unhappiness and Unemployment’, The Economic
+Journal 104, May, 648-659.
+Coombs, R.H. (1991), ‘Marital Status and Personal Well-being: A Literature Review’,
+Family Relations 40, January, 97-102.
+Cummins, R., Eckersley, R., Pallant, J., Van Vugt, J., Shelley, J., Pusey, M. and Misajon,
+R.A. (2001), Australian Unity Well-being Index, Survey 1: Report 1, Australian Centre
+on Quality of Life, Deakin University, Melbourne.
+Diener, E. (1984), ‘Subjective Well-being’, Psychological Bulletin 95, 542-575.
+Diener, E., Suh, E.M., Lucus, R.E. and Smith, H.L. (1999), ‘Subjective Well-being:
+Three Decades of Progress’, Psychological Bulletin 125, March, 276-302.
+Di Tella, R., MacCulloch, R.J. and Oswald, A.J. (forthcoming), ‘The Macroeconomics of
+Happiness’, Review of Economics and Statistics.
+Evans, M.D.R. and Kelley, J. (2002), ‘Effect of Family Structure on Life Satisfaction:
+Australian Evidence’, unpublished mimeo, University of Melbourne and Australian
+National University.
+Frijters, P., Haisken-DeNew, J. and Shields, M. (2002), ‘The Value of Reunification in
+Germany: An Analysis of Changes in Life Satisfaction’, IZA Discussion Paper No. 419,
+IZA, Bonn.
+Garvin, V., Kalter, N. and Hansell, J. (1993), ‘Divorced Women: Individual Differences
+in Stressors, Mediating Factors, and Adjustment Outcomes’, American Journal of
+Orthopsychiatry 63, 232-240.
+Glenn, N.D. (1998), ‘The Course of Marital Success and Failure in Five American 10-
+Year Marriage Cohorts’, Journal of Marriage and the Family 60, August, 569-576.
+Glenn, N.D. and Weaver, C.N. (1979), ‘A Note on Family Situation and Global
+Happiness’, Social Forces 57, 269-282.
+Inglehart, R. et al. (2000), World Values Surveys and European Values Surveys, 1981-84,
+1990-93 and 1995-97 [computer files], ICPSR version, Institute for Social Research, Ann
+Arbor, MI.
+20
+Koropeckyj-Cox, T. (2002), ‘Loneliness and Depression in Middle and Old Age: Are the
+Childless More Vulnerable? Journals of Gerontology: Social Sciences 53B, S303-S312.
+Koropeckyj-Cox, T. (2002), ‘Beyond Parental Status: Psychological Well-Being in
+Middle and Old Age’, Journal of Marriage and the Family 64, November, 957-971.
+Johnson, D.R. and Booth, A. (1998), ‘Marital Quality: A Product of the Dyadic
+Environment or Individual Factors?’, Social Forces 76, March, 883-904.
+Kurdek, L.A. (1991), ‘The Relations Between Reported Well-being and Divorce History,
+Availability of a Proximate Adult, and Gender’, Journal of Marriage and the Family 53,
+February, 71-78.
+Marks, G. and Fleming, N. (1999), ‘Influences and Consequences of Well-being Among
+Australian Young People: 1980-1995’, Social Indicators Research 46, 301-323.
+Marks, N.F. and Lambert, J.D. (1998), ‘Marital Status Continuity and Change Among
+Young and Midlife Adults: Longitudinal Effects on Psychological Well-Being’, Journal
+of Family Issues 19, November, 652-686.
+Mastekaasa, A. (1993), ‘Marital Status and Subjective Well-being’, Social Indicators
+Research 29(3), 249-276.
+Mastekaasa, A. (1994a), ‘Marital Status, Distress, and Well-being: An International
+Comparison’, Journal of Comparative Family Studies 25, Summer, 183-205.
+Mastekaasa, A. (1994b), ‘The Subjective Well-being of the Previously Married: The
+Importance of Unmarried Cohabitation and Time Since Widowhood or Divorce’, Social
+Forces 73, December, 665-682.
+McLanahan, S. and Adams, J. (1987), ‘Parenthood and Psychological Well-being’,
+Annual Review of Sociology 13, 237-257.
+Rogers, S.J. (1999), ‘The Nexus of Job Satisfaction, Marital Satisfaction and Individual
+Well-Being: Does Marriage Order Matter?’ Research in the Sociology of Work 7, 141-
+167.
+Spanier, G.B. and Furstenberg, Jr., F.F. (1982), ‘Remarriage After Divorce: A
+Longitudinal Analysis of Well-Being’, Journal of Marriage and the Family 44, August,
+709-720.
+Stack, S. and Eshleman, J.R. (1998), ‘Marital Status and Happiness: A 17-nation Study’,
+Journal of Marriage and the Family 60, May, 527-536.
+VanLaningham, J., Johnson, D.R. and Amato, P. (2001), ‘Marital Happiness, Marital
+Duration, and the U-shaped Curve: Evidence from a Five-Wave Panel Study’, Social
+Forces 78, June, 1313-1341.
+Winkelmann, L. and Winkelmann, R. (1998), ‘Why are the Unemployed so Unhappy?
+Evidence from Panel Data’, Economica 65, February, 1-15.
+Waite, L.J. and Gallagher, M. (2000), The Case for Marriage: Why Married People are
+Happier, Healthier and Better Off Financially, Doubleday, New York.
+Watson, N. and Wooden, M. (2002a), ‘The Household, Income and Labour Dynamics in
+Australia (HILDA) Survey: Wave 1 Survey Methodology’, HILDA Project Technical
+21
+22
+Paper Series No. 1/02, May 2002 (Revised September 2002), Melbourne Institute of
+Applied Economic and Social Research, University of Melbourne.
+Watson, N. and Wooden, M. (2002b), ‘Assessing the Quality of the HILDA Survey
+Wave 1 Data, HILDA Project Technical Paper Series No. 4/02, October 2002, Melbourne
+Institute of Applied Economic and Social Research, University of Melbourne.
+Wooden, M., Freidin, S. and Watson, N. (2002), ‘The Household, Income and Labour
+Dynamics in Australia (HILDA) Survey: Wave 1’, Australian Economic Review 35,
+September, 339-348.
+Zhang, Z. and Hayward, M.D. (2001), ‘Childlessness and the Psychological Well-being
+of Older Persons’, Journals of Gerontology: Social Sciences 56B, S311-S320.
+ENDNOTES
+1
+ The number of selections made varied with the expected response and occupancy rates within each
+area. 2
+ The general consensus in the international literature is that reported differences in SWB between men
+and women, which typically favour women, disappear once other demographic variables are controlled
+for (Diener et al. 1999, p. 292). Recent studies employing large national samples, however, have
+generally found that significant gender differences remains after inclusion of demographic controls
+(e.g., Stack and Eshleman 1998, Marks and Fleming 1999, Frijters et al. 2002, Blanchflower and
+Oswald 2003, Di Tella et al. forthcoming). 3
+ We use the modified OECD equivalence scale, which assigns a value of 1 to the first adult, 0.5 to all
+other adults, and 0.3 to children (defined here as persons under the age of 15 years). As is
+conventional, we also specify income as a log function. 4
+ A likelihood ratio test for equality of parameters resulted in a chi-squared statistic of 3105.5, well in
+excess of the critical level needed to reject the hypothesis of parameter equality. 5
+ We disaggregated the variable for dependent children to distinguish between children aged less than
+one year, between 1 and 4 years and between 5 and 14 years and could find no clear evidence that the
+age of dependent children mattered for life satisfaction. Further, this was also true when the variables
+were reconstructed as simple dummies signalling the presence of such children rather than the number. 

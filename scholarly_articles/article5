@@ -1,0 +1,740 @@
+Skip to Content
+Library Menu: Brigham Young University - Utah
+English
+
+Sign in with Google
+Sign in with Microsoft
+
+GALE ACADEMIC ONEFILE
+Toolbar
+Please select the search index
+Search...
+Advanced Search
+
+Cite
+
+Send To...
+
+Download
+
+Print
+
+Get Link
+Highlights And Notes
+Do marrying later and parenting later affect happiness? Analysis of data from the Chinese General Social Survey.
+Citation metadata
+Authors: Chunlin Wan, Xinrui Gao, Min Zhang and Yuyan Liu
+Date: Oct. 2023
+From: Social Behavior and Personality: An International Journal(Vol. 51, Issue 10)
+Publisher: Scientific Journal Publishers, Ltd.
+Document Type: Report
+Length: 3,871 words
+DOI: http://dx.doi.org.byu.idm.oclc.org/10.2224/sbp.12700
+Document controls
+
+Translate
+
+Decrease font size
+
+Increase font size
+
+Display options
+
+Listen
+ Send to Google Drive™
+ Send to Microsoft OneDrive™
+
+Email
+Download
+Print
+Main content
+Abstract: 
+We investigated whether marrying and parenting later influences people's happiness. Data were sourced from the Chinese General Social Survey 2017, with an average age when marrying of 25.34 years and an average age when becoming a parent of 27.03 years. Analysis showed that, compared to parenting later, those parenting at a younger age were happier. However, the effect of age at marriage on later happiness was not significant. Further, the effect of parenting age on happiness was greater among men than it was for women, and greater for rural residents compared with urban residents. Data analysis revealed three main channels through which parenting age affected happiness: First, parenting later increased labor income, but testing revealed that an increase in income led to a decrease in leisure time, and this lowered happiness; second, later parenting reduced the number of children born to the couple, and happiness was also reduced as the number of children in the family reduced; and third, later parenting reduced the likelihood of having grandchildren at the same time as other people of the same age, and a reduction in happiness was observed for those without grandchildren.
+
+Keywords age at marriage, age when parenting, happiness, family size
+
+Marrying later and also parenting later than was the case in the past have become increasingly common occurrences in modern societies. According to the Statistical Bulletin on the Development of Civil Affairs in 2019 (Chinese Ministry of Civil Affairs, 2020) the number of marriages dropped from 23.86 million to 13.99 million at the beginning of 2019, and the number of remarriages rose from 3.08 million to 4.56 million. There were fewer registered marriages among those aged 20 to 24 years and the number of marriages among those over 30 increased, with the average age for all childbearing rising from 24.8 in 2005 to 28.1 years in 2019. Delaying parenting reduces the willingness to rebirth, lowering the total fertility rate and leading to a higher proportion of the population in the older adult age group (Marini, 1981).
+
+The Chinese government's family planning policy promotes "late marriage and late parenting, fewer and better children, then happy life." It has gained common acceptance among Chinese people that those who marry and parent later tend to bear fewer children than do those who have married and parented at a younger age, which leads to better education for the children because of greater investment. However, does marrying and parenting later really promote a happy life?
+
+With regard to parenting age and happiness, some researchers have concluded that those who parent earlier (vs. later) are happier. Later parenting reduces the likelihood of having another child (Marini, 1981), and multichild families may increase the parents' happiness (Leibenstein, 1977; Vanassche et al., 2013). Parents can see the continuation of their own lives in the development of their children (Eibach & Mock, 2011; Nelson et al., 2013). Later parenting also reduces the chance of having grandchildren, and families with grandchildren report higher happiness levels than do those who have no grandchildren (Powdthavee, 2011).
+
+Other researchers have argued that early parenting has a negative effect on happiness. There are problems associated with parenting that can reduce parents' happiness, and when parenting early these problems may be more difficult to deal with. These may include the economic cost of raising children, the reduction of parents' own leisure time, and the effect of maternity leave provisions on the mother's career planning (Aassve et al., 2012; Bittman & Wajcman, 2000). When people do not parent early they can pursue more vocational training or higher education to increase their future earnings (Blackburn & Cipriani, 2002). Higher income can enhance happiness (Easterlin, 2001) but it can also reduce happiness because of less leisure time (Knabe & Ratzel, 2010). On the other hand, better education significantly improve parents' happiness (Becker & Lewis, 1973).
+
+Studies have shown that married people are healthier, wealthier, and happier than are those who are not married (Gove et al., 1983; Johnson et al., 2017; Tao, 2019). Other studies show that in China, for men who marry when under 22 years and for women who marry when under 20 years, marriage reduces the number of years they spend in education, limits their employment opportunities, increases the possibility of family financial difficulties, and reduces happiness over the life cycle (Umberson et al., 2010).
+
+In summary, the conclusions so far reached in the debate on the impact of later marriage and later parenting on happiness are contradictory. Moreover, studies conducted in China are scarce. On this basis we investigated whether marrying and parenting later lead to a happy life using data sourced from the Chinese General Social Survey 2017 (CGSS2017). Then, we analyzed the mechanisms of how/reasons why later marriage and parenting affect happiness. Referring to the above literature, we tested the following three factors: income, number of children in the family, and whether the couple had grandchildren.
+
+Method
+
+
+Participants
+
+We extracted 4,448 valid sample observations from the CGSS2017 after excluding respondents for whom answers to questions were missing. The valid sample comprised data from 2,393 women and 2,056 men. The database includes a question on whether people are happy, and parenting age is shown indirectly.
+
+Measures
+
+To assess subjective happiness, self-reports are commonly used for simplicity, reliability, validity, and capability of meeting psychological measurement requirements (Veenhoven, 1996). We used two questions in the CGSS17 to determine the respondents' happiness level and age at marriage: "In general, do you think your life is happy?" and "When did you first marry?"
+
+Parenting age was inferred from the age given in the survey for the respondent's oldest son or daughter. Furthermore, we excluded nonbiological children (adopted child, stepchild), cases where the eldest child had died, and cases where the number of family members was incomplete (because we could not add or subtract the ages of existing family members to obtain their parenting age). This reduced the sample size by 326. People over 80 years were excluded on the basis that the first child of someone over 80 was likely to have died, and in China in 2020 only 2% of people lived to be over 80. This reduced the sample size by only 68.
+
+We also included control variables related to happiness, such as income, work-related variables, and demographic characteristics. Education was assigned according to the highest educational qualification recorded in the response in the CGSS17, and we logarithmically processed total income and labor income, where labor income is simply income earned through work. Total income comprises all income, including labor income, property income (e.g., rental income, interest income), and transfer income.
+
+variability, enabling the estimation of the impact of the explanatory variable on the explained variable in the econometric model.
+
+Procedure
+
+
+We used the ordinary least squares method with the heteroscedasticity robust standard error for regression estimation:
+
+happy; = [[beta].sub.0] + [[beta].sub.1]marry; + [[beta].sub.2][bearing.sub.i] + [PHI][X.sub.i] + [[micro].sub.i] (1)
+
+where happy, represents happiness; marry; and bearing; represent age when first married and parenting age, respectively; [X.sub.i] is the vector containing all control variables; [[beta].sub.0] is the intercept term; [[beta].sub.1] and [[beta].sub.2] represent the estimation coefficient of marriage age and parenting age, respectively; [PHI] is the vector containing the estimation coefficients of all control variables; and [[micro].sub.i]; is the random error. To reduce the multiple collinearities in equation (1), we carried out an econometric regression on equations 2 and 3 in the benchmark regression.
+
+[happy.sub.i] = [[beta].sub.01] + [[beta].sub.11]marry; + [[PHI].sub.1][X.sub.i] + [[micro].sub.i] (2)
+
+[happy.sub.i] = [[beta].sub.02] + [[beta].sub.22]bearing; + [[PHI].sub.2][X.sub.i] + [[micro].sub.i] (3)
+
+As first marriage age was strongly correlated with parenting age in the sample (correlation coefficient = .74), we constructed a mediation effects model based on the method recommended by Baron & Kenny (1986) to examine the mediating effect of later parenting on happiness.
+
+[M.sub.i] = [[alpha].sub.0] + [[alpha].sub.1][bearing.sub.i] + [[alpha].sub.2][X.sub.i] + [[epsilon].sub.i] (4)
+
+happy; = [[[gamma].sub.0] + [[gamma].sub.1]bearing; + [[gamma].sub.2][M.sub.I] + [[gamma].sub.3][X.sub.i] + [member of].sub.i] (5)
+
+
+where M; is the mediating variable, that is, income, the number of children in the family, and having/not having grandchildren; [X.sub.i] denotes control variables, which are consistent with those in the benchmark model; the estimated coefficients of the variable are [[alpha] and [gamma]; and random errors are [[epsilon].sub.i] and [member of].sub.i]. When taking income as the explanatory variable, some income-independent variables were excluded, such as housing area, number of properties/land in which the respondent held an interest, and number of children. For the grandchild variable, individuals aged 46 years and older were included in the regression: 0 denotes not having any grandchildren, 1 denotes having grandchildren.
+
+Results
+
+Benchmark Regression Results
+
+The regression results for marriage age and control variables are shown in Table 2. The results in Column 1 show that, compared with early marriage, later marriage reduced happiness. In Column 2 we replaced first marriage age with age at the time of the most recent marriage (including remarriage, denoted as Marry1), and found no significant effect on happiness. Column 3 shows that parenting age had a strong negative impact on happiness in that people became less happy as parenting age increased. Columns 4 and 5 show that the coefficient for marriage age became nonsignificant after including parenting age, which remained significantly negative. The variance inflation factor (VIF) of regressions in Columns 4 and 5 were 3.27 and 1.47, respectively. Both VIFs were less than the critical value for multicollinearity in the general case 10 (VIFs for the other regressions in the table: < 10).
+
+The results show that total income had a positive impact on happiness, whereas labor income had a negative impact on happiness. Housing area, family economic level, and the number of properties/land in which the respondent held an interest also positively affected happiness, reflecting that people were happier when they had a more comfortable life economically. In Columns 1, 3, and 4, the education level of both husband and wife have positive coefficients, demonstrating a higher level of education increased people's happiness. The coefficients of health status, number of children, and pension attitude were all significantly positive, indicating that the healthier individuals were the happier they were, and supporting the proverb "more children, more happiness." Year of birth and employment had a significantly negative impact on happiness. Hukou, ethnicity, gender, and employment status (boss or SOE) did not affect happiness. Generally, the estimated coefficients of these control variables matched our expectations.
+
+Robustness Test
+
+We changed happiness to a 0-1 binary variable by setting the values of "quite happy" and "very happy" to 1 and the other happiness values to 0, and used logit and probit models to regress. The outcomes are shown in Tables 3 and 4.
+
+In Tables 3 and 4 the coefficient significance of the logit and probit models is the same; only the values are different. Compared with the benchmark regression results, the first marriage age coefficient (Marry) did not reach significance, but the most recent marriage age coefficient (Marry1) remained significant. The marriage age coefficient was nonsignificant when adding parenting age, showing that the influence of marriage age on happiness was affected by parenting age. We then changed from data drawn from the CGSS2017 to data from the CGSS2015, 2 years earlier. Given that the samples are not the same in these two surveys, the data are inconsistent, but the survey content, questions, and variables are nearly identical. Our sample still consisted of individuals aged under 80 with a child. The sample size was 4,606.
+
+
+Table 5 shows that the first marriage age coefficient was significantly negative only in Column 1. Except for the slightly different coefficient values, all other columns in the regression have coefficient symbols and explanatory variable significance consistent with the benchmark regression results.
+
+Heterogeneity Analysis
+
+We divided the sample into two age groups. In demographics terms, women aged between 14 and 49 years are generally referred to as being of childbearing age. Usually, if a woman is older than 49 years she is considered to be incapable of having children. However, we divided the whole sample, including both men and women, into two groups comprising those aged over 50 and those younger than 50 years. To make the results robust, we then lowered the age for the older group by 5 years so that the younger group was aged 45 years and under to examine these two groups. Regression results in Table 6 show that first marriage and marriage age did not have a significant impact on happiness, whereas parenting age had a negative impacted on happiness for both age groups and the impact was more negative for the group aged under 45 years than for the group aged 45 years and over.
+
+Tables 7 and 8 show regression results using the CGSS2017 data specific to gender and to registered place of residence (hukou), respectively, with individuals divided into urban and rural groups in Table 8. The effect of marriage age on happiness was nonsignificant, but parenting age had a significantly negative effect on happiness. The negative effect on men's happiness as parenting age increased was greater than the effect for women, and the effect differed between rural and urban areas, indicating that men who lived in rural areas and who had their children at a younger age were likely to be happier than those in urban areas and who parented later.
+
+Mechanism Analysis
+
+Table 9 shows the effect of income in the relationship of parenting age and happiness. Increased parenting age improved labor income but the effect on total income was nonsignificant (correlation coefficient between total income and labor income = .688). Higher (vs. lower) total income significantly enhanced happiness, whereas higher (versus lower) labor income enhanced happiness but the consequent decreased leisure time had a negative impact on any enhancement through increased income. Thus, later parenting reduced happiness through increased labor income via the mediator of reduced leisure time, and the number of children the individual had decreased, as did the likelihood of having grandchildren at the same time as their peers did.
+
+We further tested whether the increase in labor income reduced leisure time and how this affected happiness. The CGSS includes a leisure-related question: "Have you often done the following things in your free time in the past year?" Activities listed are as follows: 1. Socialize/visit, 2. Rest and relax, 3. Learn to recharge. Response options are 1 = never, 2 = rarely, 3 = sometimes, 4 = often, 5 = very often. We summed the scores for the three leisure activities to construct the leisure variable. The value rises from 1 to 15 as the frequency of the respondent's leisure activities increases.
+
+Table 10 shows the regression results with leisure time as the intermediary variable. With control variables (including work and children-related variables) included, as labor income increased, leisure time decreased (Columns 1 and 2), and the parameters of parenting age changed from nonsignificant to significantly negative only when labor income decreased (Column 3), indicating there were intermediary effects among parenting age, labor income, and leisure time. Columns 4 and 5 show that having leisure time significantly increased happiness. Compared with the benchmark regression results, after adding leisure, the coefficient values of first marriage age and parenting age were nearly the same, but those for total income and labor income changed to some extent. In brief, as labor income increased, leisure time reduced and happiness level reduced alongside this.
+
+
+Table 11 shows the results of a bootstrapping analysis. The results for the control variables were consistent with those in Tables 9 and 10. The indirect effect of total income as an intermediary variable was nonsignificant, indicating that parenting age did not affect happiness through total income (Column 1). According to results in Columns 2 to 5, later parenting age both directly and indirectly reduced happiness through labor income, number of children, having grandchildren, and leisure time. The most significant intermediary effect was having had children, with the next most significant being that of the number of children. The result for labor income was the least significant. However, the result for grandchildren was influenced by the sample size, which was small as all participants in the analysis were aged over 45 years.
+
+Discussion
+
+Using microdata from the CGSS17 we found that, compared with parenting early, parenting at a later age has a significantly negative effect on happiness, but the effect of age when marrying for the first time on happiness is nonsignificant. Heterogeneity analysis showed that the negative impact of later parenting age is greater for men than for women, and also greater for rural residents than for urban residents. Further analysis revealed that the negative effect on happiness of parenting at a later age is mediated by an increase in labor income, by having fewer children in the family, and by a lower probability of having grandchildren at the same time as other people of the same age. Therefore, later marriage and later parenting reduce happiness and also reduce the number of children born in the family, resulting in a decline in the total fertility rate leading to a higher proportion of older adults in the total population. This study supports the perspective of Powdthavee (2011) and Vanassche et al. (2013), who found that late marriage and late parenting do not lead to happiness.
+
+If there were fewer people in China parenting at a later time, this would help the fertility rate to rise and, according to our analysis, people would have higher happiness. The main implications for government policy are as follows: (a) More publicity that, in the longer term, the later parenting begins the less happy the individual may be in old age; (b) to encourage young people to have children, the government should provide encouragement, such as childbirth subsidies, personal income tax reductions for parents of newborns, and extending current maternity and parental leave provisions; (c) the government should reduce part of the tax burden of companies where women who have given birth are employed, and make efforts to eliminate employment discrimination owing to childbirth; and (d) there is a need to improve facilities for pregnant students by providing a single room for each of them and instituting a system whereby they can delay examinations and graduation.
+
+Despite the contribution of our study to this field of research, there are potential measurement errors and some limitations in terms of analysis. The first concern is that the constructs were operationalized with one question only about happiness and no other indicators in the database. In addition, the database is cross-sectional and does not fully reflect the state of happiness over the life cycle. Finally, unobserved variables may have affected happiness, such as environment quality or personality. We did not take these unobserved factors into account. In future studies, we will search for more data to make improvements to the current analysis.
+
+Acknowledgments
+
+This research received funding from the Ministry of Education in China Youth Project of Humanities and Social Sciences (22YJC910010) and from the Natural Science Foundation of Sichuan Province of China (2023NSFSC1064).
+
+Chunlin Wan was responsible for conceptualization, methodology, and writing the original draft for this research; Xinrui Gao performed data curation, review, and editing of the text; Min Zhang performed formal analysis and visualization; and Yuyan Liu was responsible for methodology and performed editing of the text.
+
+The data that support the findings of this study are available in the Chinese General Social Survey at http://www.cnsda.org/
+
+
+References
+
+Aassve, A., Goisis, A., & Sironi, M. (2012). Happiness and childbearing across Europe. Social Indicators Research, 108, 65-86. https://doi-org.byu.idm.oclc.org/10.1007/s11205-011-9866-x
+
+Baron, R. M., & Kenny, D. A. (1986). The moderator-mediator variable distinction in social psychological research: Conceptual, strategic, and statistical considerations. Journal of Personality and Social Psychology, 51(6), 1173-1182. https://doi-org.byu.idm.oclc.org/10.1037/0022-3514.51.6.1173
+
+Becker, G. S., & Lewis, H. J. (1973). On the interaction between the quantity and quality of children. Journal of Political Economy, 81(2), S279-S288. https://doi-org.byu.idm.oclc.org/10.1086/260166
+
+Bittman, M., & Wajcman, J. (2000). The rush hour: The character of leisure time and gender equity. Social Forces, 79(1), 165-189. https://doi-org.byu.idm.oclc.org/10.2307/2675568
+
+Blackburn, K., & Cipriani, G. P. (2002). A model of longevity, fertility and growth. Journal of Economic Dynamics & Control, 26(2), 187-204. https://doi-org.byu.idm.oclc.org/10.1016/S0165-1889(00)00022-1
+
+Chinese Ministry of Civil Affairs. (2020). Statistical bulletin on the development of civil affairs in 2019 [In Chinese]. Ministry of Civil Affairs.
+
+Easterlin, R. A. (2001). Income and happiness: Towards a unified theory. The Economic Journal, 111(473), 465-484. https://doi-org.byu.idm.oclc.org/10.1111/1468-0297.00646
+
+
+Eibach, R. P., & Mock, S. E. (2011). Idealizing parenthood to rationalize parental investments. Psychological Science, 22(2), 203-208. https://doi-org.byu.idm.oclc.org/10.1177/0956797610397057
+
+Gove, W. R., Hughes, M., & Style, C. B. (1983). Does marriage have positive effects on the psychological well-being of the individual? Journal of Health and Social Behavior, 24(2), 122-131. https://doi-org.byu.idm.oclc.org/10.2307/2136639
+
+Johnson, M. D., Krahn, H. J., & Galambos, N. L. (2017). Better late than early: Marital timing and subjective well-being in midlife. Journal of Family Psychology, 31(5), 635-641. https://doi-org.byu.idm.oclc.org/10.1037/fam0000297
+
+Knabe, A., & Ratzel, S. (2010). Income, happiness, and the disutility of labour. Economics Letters, 107(1), 77-79. https://doi-org.byu.idm.oclc.org/10.1016/j.econlet.2009.12.032
+
+Leibenstein, H. (1977). The economic theory of fertility decline. Economic theory of fertility: Reply to Cullison, 91(2), 349-350. https://doi-org.byu.idm.oclc.org/10.2307/1885423
+
+Marini, M. M. (1981). Measuring the effects of the timing of marriage and first birth. Journal of Marriage and Family, 43(1), 199-226. https://doi-org.byu.idm.oclc.org/10.2307/351414
+
+Nelson, S. K., Kushlev, K., English, T., Dunn, E. W., & Lyubomirsky, S. (2013). In defense of parenthood: Children are associated with more joy than misery. Psychological Science, 24(1), 3-10. https://doi-org.byu.idm.oclc.org/10.1177/0956797612447798
+
+Powdthavee, N. (2011). Life satisfaction and grandparenthood: Evidence from a nationwide survey (Discussion paper No. 5869). IZA-Institute of Labor Economics. https://doi-org.byu.idm.oclc.org/10.2139/ssrn.1906172
+
+
+Tao, H.-L. (2019). Marriage and happiness: Evidence from Taiwan. Journal of Happiness Studies, 20(6), 1843-1861. https://doi-org.byu.idm.oclc.org/10.1007/s10902-018-0029-5
+
+Umberson, D., Pudrovska, T., & Reczek, C. (2010). Parenthood, childlessness, and well-being: A life course perspective. Journal o11 Marriage and Family, 72(3), 612-629. https://doi-org.byu.idm.oclc.org/10.11/j.1741-3737.2010.00721.x
+
+Vanassche, S., Swicegood, G., & Matthijs, K. (2013). Marriage and children as a key to happiness? Cross-national differences in the effects of marital status and children on well-being. Journal of Happiness Studies, 14(2), 501-524. https://doi-org.byu.idm.oclc.org/10.1007/s10902-012-9340-8
+
+Veenhoven, R. (1996). Developments in satisfaction-research. Social Indicators Research, 37(1), 1-46. https://doi-org.byu.idm.oclc.org/10.1007/BF00300268
+
+Chunlin Wan (1), Xinrui Gao (1), Min Zhang (1), Yuyan Liu (2)
+
+(1) School of Economics, Sichuan University, People's Republic of China
+
+(2) HEOA Group, West China School of Public Health and West China Fourth Hospital, Sichuan University, People's Republic of China
+
+How to cite: Wan, C, Gao, X., Zhang, M., & Liu, Y. (2023). Do marrying later and parenting later affect happiness? Analysis of data from the Chinese General Social Survey. Social Behavior and Personality: An international journal, 51(10), e12700
+
+
+CORRESPONDENCE Yuyan Liu, HEOA Group, West China School of Public Health and West China Fourth Hospital, Sichuan University, No. 16, Section 3, Ren Min Nan Road, Chengdu, Sichuan 610041, People's Republic of China. Email: liuyuyan@scu.edu.cn
+
+Article Highlights
+
+* The younger people were when becoming parents, the greater was their happiness in later life, whereas there was no significant effect of the age at which people married on how happy they were.
+
+* The effect of parenting age on happiness was greater among men compared with women, and among rural residents compared with urban residents.
+
+* Becoming a parent at a later age affected happiness through three mechanisms: the increase in labor income, reduction in the number of children born to the family, and reduction in the likelihood of having grandchildren when contemporaries did.
+
+https://doi-org.byu.idm.oclc.org/10.2224/sbp.12700
+
+Table 1. Variable Descriptive Statistics
+Variable                             Abbreviation
+Happiness
+Age when married                     Marry
+Parenting age                        Bearing
+Total income                         Total
+Labor income                         Labor
+Housing area                         Area
+Family economic level                Level
+Number of estates                    Number
+Education                            Edu
+Husband's or wife's education        Edup
+Health status                        Health
+Number of children                   Child
+Pension attitude                     Pension
+Years of working in paid employment  Workyear
+Registered residence                 Hukou
+Ethnicity
+Gender
+Year of birth                        Age
+Boss
+Self-employed households             Individual
+State-owned enterprise               SOE
+Variable                             Definition
+Happiness                            -2 = very unhappy;
+                                     -1 = quite unhappy;
+                                     0 = neither happy nor unhappy;
+                                     1 = quite happy; 2 = very happy
+Age when married
+Parenting age
+Total income                         Logarithm of RMB
+Labor income                         Logarithm of RMB
+Housing area                         Square meters
+Family economic level                -2 = far below average;
+                                     -1 = lower than average;
+                                     0 = average;
+                                     1 = higher than average;
+                                     2 = much higher than average
+Number of estates                    -
+Education                            Years
+Husband's or wife's education        Years
+Health status                        -2 = very unhealthy;
+                                     -1 = less healthy;
+                                     0 = generally healthy;
+                                     1 = healthy; 2 = very healthy
+Number of children                   -
+Pension attitude                     0 = others;
+                                     1 = government/children/elderly
+                                     responsibility sharing;
+                                     2 = mainly children responsible
+Years of working in paid employment  -
+Registered residence                 0 = agricultural;
+                                     1 = nonagricultural
+Ethnicity                            0 = Han; 1 = ethnic minority
+Gender                               0 = female; 1 = male
+Year of birth
+Boss                                 0 = other; 1 = boss
+Self-employed households             0 = other;
+                                     1 = self-employed household
+State-owned enterprise               0 = other;
+                                     1 = in state-owned or state-owned
+                                     holding enterprise
+Variable                             M        SD       Minimum  Maximum
+Happiness
+                                       0.870    0.794    -2      2
+Age when married                      25.340   13.860    14     44
+Parenting age                         27.030    4.420    15     45
+Total income                           8.364    3.655     0     16.12
+Labor income                           7.141    4.491     0     15.42
+Housing area                         125.300  100.100     5      2,400
+Family economic level
+                                       2.651    0.705     1      5
+Number of estates                      1.132    0.604     0     14
+Education                              7.718    3.731     1     18
+Husband's or wife's education          7.821    3.701     1     18
+Health status
+                                       0.634    1.065    -2      2
+Number of children                     1.809    1.026     1      9
+Pension attitude
+                                       1.377    0.725     0      2
+Years of working in paid employment    6.995   10.670     0     52
+Registered residence
+                                       0.325    0.468     0
+Ethnicity                              0.093    0.290     0      1
+Gender                                 0.462    0.498     0      1
+Year of birth                           1968   13.300  1947     1995
+Boss                                   0.021    0.142     0      1
+Self-employed households
+                                       0.089    0.286     0      1
+State-owned enterprise
+                                       0.101    0.302     0      1
+Table 2. Benchmark Regression Results for Marriage Age and Control 
+Variables
+Explanatory variable  (1)            (2)           (3)
+Marry                  -.0064 (*)
+                       (.0034)
+Marry 1                               -.0001
+                                      (.0001)
+Bearing                                             -.0084 (***)
+                                                    (.0029)
+Total                   .0405 (*)      .0414 (*)     .0390 (*)
+                       (.0213)        (.0213)       (.0213)
+Labor                  -.0352 (*)     -.0336 (*)    -.0332 (*)
+                       (.0180)        (.0181)       (.0180)
+Area                    .0003 (***)    .0003 (***)   .0003 (***)
+                       (.0001)        (.0001)       (.0001)
+Level                   .1007 (***)    .1012 (***)   .0998 (***)
+                       (.0201)        (.0201)       (.0200)
+Number                  .1020 (***)    .1031 (***)   .1013 (***)
+                       (.0214)        (.0215)       (.0214)
+Edu                     .0077 (*)      .0063         .0083 (*)
+                       (.0047)        (.0046)       (.0047)
+Edup                    .0154 (***)    .0151 (***)   .0156 (***)
+                       (.0046)        (.0046)       (.0046)
+Health                  .1667 (***)    .1668 (***)   .1674 (***)
+                       (.0131)        (.0131)       (.0130)
+Child                   .0265 (*)      .0312"        .0273 (*)
+                       (.0148)        (.0147)       (.0146)
+Pension                 .0480 (***)    .0460 (***)   .0483 (***)
+                       (.0166)        (.0166)       (.0166)
+Hukou                   .0219          .0192         .0237
+                       (.0290)        (.0290)       (.0290)
+Ethnicity              -.0269         -.0243        -.0248
+                       (.0391)        (.0388)       (.0391)
+Gender                 -.0019         -.0082        .0030
+                       (.0251)        (.0247)       (.0250)
+Age                    -.0005         -.0050 (***)  -.0062 (***)
+                       (.0034)        (.0012)       (.0013)
+Workyear               -.0026 (**)    -.0026 (**)   -.0027 (**)
+                       (.0013)        (.0013)       (.0013)
+Boss                   -.0096         -.0142        -.0069
+                       (.0714)        (.0725)       (.0711)
+Individual              .0243          .0237         .0237
+                       (.0381)        (.0385)       (.0381)
+SOE                    -.0030         -.0024        -.0013
+                       (.0397)        (.0398)       (.0397)
+Constant              10.8012 (***)   9.9900 (***)  12.4623 (***)
+                      (2.4081)       (2.3732)       (2.4833)
+Observations          4,448           4,448          4,448
+[R.sup.2]              .1064           .1059          .1078
+Explanatory variable  (4)            (5)
+Marry                   .0008
+                       (.0040)
+Marry 1                                .0000
+                                      (.0001)
+Bearing                -.0088 (**)    -.0079 (***)
+                       (.0036)        (.0029)
+Total                   .0389 (*)      .0400 (*)
+                       (.0213)        (.0214)
+Labor                  -.0331 (*)     -.0320 (*)
+                       (.0180)        (.0181)
+Area                    .0003 (***)    .0003 (***)
+                       (.0001)        (.0001)
+Level                   .0999 (***)    .0994 (***)
+                       (.0200)        (.0200)
+Number                  .1013 (***)    .1017 (***)
+                       (.0214)        (.0216)
+Edu                     .0082 (*)      .0075
+                       (.0047)        (.0047)
+Edup                    .0155 (***)    .0159 (***)
+                       (.0046)        (.0046)
+Health                  .1673 (***)    .1680 (***)
+                       (.0130)        (.0131)
+Child                   .0278 (*)      .0282 (*)
+                       (.0149)        (.0147)
+Pension                 .0484 (***)    .0459 (***)
+                       (.0166)        (.0166)
+Hukou                   .0236          .0215
+                       (.0290)        (.0291)
+Ethnicity              -.0248         -.0214
+                       (.0391)        (.0389)
+Gender                  .0023          .0028
+                       (.0252)        (.0251)
+Age                    -.0070 (*)     -.0061 (***)
+                       (.0042)        (.0013)
+Workyear               -.0027 (**)    -.0026 (**)
+                       (.0013)        (.0013)
+Boss                   -.0070         -.0093
+                       (.0711)        (.0725)
+Individual              .0238          .0225
+                       (.0381)        (.0384)
+SOE                    -.0014         -.0002
+                       (.0397)        (.0398)
+Constant              12.4476 (***)  12.2397 (***)
+                      (2.4841)       (2.4895)
+Observations           4,448          4,448
+[R.sup.2]               .1078          .1075
+Note. Standard error values are shown in parentheses. SOE = state-owned 
+enterprise.
+(*) p<.10. (**) p< .05. (***) p< .01.
+
+Table 3. Regression Results for Happiness by Logit Model
+Explanatory variable  (1)          (2)            (3)
+Marry                  -.0151
+                       (.0116)
+Marry1                             -.0225 (***)
+                                   (.0086)
+Bearing                                           -.0278 (***)
+                                                  (.0098)
+Control variables     Yes          Yes            Yes
+Constant              22.6208(**)  24.2249 (***)  28.4157 (***)
+                      (8.9460)     (8.9741)       (9.2645)
+Observations           4,448        4,448          4,448
+[R.sup.2]               .0834        .0845          .0849
+Explanatory variable  (4)            (5)
+Marry                   .0042
+                       (.0136)
+Marry1                                -.0140
+                                      (.0098)
+Bearing                -.0297 (**)    -.0196 (**)
+                       (.0115)        (.0101)
+Control variables     Yes            Yes
+Constant              28.3169 (***)  28.4152 (***)
+                      (9.2612)       (9.3220)
+Observations           4,448          4,448
+[R.sup.2]               .0849          .0853
+Note. Standard error values are shown in parentheses.
+(**) p < .05. (***) p < .01.
+Table 4. Regression Results for Happiness by Probit Model
+Explanatory variable  (1)            (2)            (3)
+Marry                  -.0092
+                       (.0066)
+Marry 1                               -.0128 (***)
+                                      (.0050)
+Bearing                                              -.0157 (***)
+                                                     (.0056)
+Control variables     Yes            Yes            Yes
+Constant              13.1582 (***)  13.9434 (***)  16.2383 (***)
+                      (5.0359)       (5.0479)       (5.2026)
+Observations           4,448          4,448          4,448
+[R.sup.2]               .0837          .0846          .0851
+Explanatory variable  (4)            (5)
+Marry                  -.0015
+                       (.0079)
+Marry 1                               -.0080
+                                      (.0057)
+Bearing                -.0164 (**)    -.0111 (**)
+                       (.0067)        (.0056)
+Control variables     Yes            Yes
+Constant              16.1991 (***)  16.2765 (***)
+                      (5.2018)       (5.2328)
+Observations           4,448          4,448
+[R.sup.2]               .0851          .0854
+Note. Standard error values are shown in parentheses.
+(**) p < .05. (***) p < .01.
+Table 5. Robustness Test Using Chinese General Social Survey 2015 Data
+Explanatory variable  (1)            (2)            (3)
+Marry                  -.0098 (***)
+                       (.0036)
+Marry1                                -.0001
+                                      (.0001)
+Bearing                                              -.0089 (***)
+                                                     (.0029)
+Control variables     Yes            Yes            Yes
+Constant              14.6394 (***)  12.8805 (***)  16.2752 (***)
+                      (3.3830)       (3.3342)       (3.5376)
+Observations           4,606          4,606          4,606
+[R.sup.2]               .1054          .1041          .1057
+Explanatory variable  (4)            (5)
+Marry                  -.0057
+                       (.0040)
+Marry1                                -.0001
+                                      (.0001)
+Bearing                -.0061 (**)    -.0087 (***)
+                       (.0031)        (.0029)
+Control variables     Yes            Yes
+Constant              16.3070 (***)  16.4032 (***)
+                      (3.5377)       (3.5375)
+Observations           4,606          4,606
+[R.sup.2]               .1061          .1061
+Note. Standard error values are shown in parentheses.
+(**) p < .05. (***) p < .01.
+Table 6. Regression by Age Group
+                      (1)            (2)            (3)
+Explanatory variable  >45            >45            <45
+Marry                  -.0009                         .0057
+                       (.0048)                       (.0072)
+Marry1                                 .0001
+                                      (.0001)
+Bearing                -.0072 (*)     -.0073 (**)    -.0166 (**)
+                       (.0041)        (.0036)        (.0068)
+Control
+Variables             Yes            Yes            Yes
+Constant              30.1595 (***)  29.6496 (***)   9.7156
+                      (4.7033)       (4.7090)       (6.2561)
+Observations           2,493          2,493          1,955
+[R.sup.2]               .1411          .1405          .0864
+                      (4)          (5)            (6)
+Explanatory variable  <45          >50            >50
+Marry                                -.0013
+                                     (.0053)
+Marry1                  .0006                        .0001
+                       (.0053)                      (.0001)
+Bearing                -.0152 (**)   -.0084 (*)     -.0087 (**)
+                       (.0062)       (.0046)        (.0040)
+Control
+Variables             Yes          Yes            Yes
+Constant               9.6350       32.1541 (***)  31.6453 (***)
+                      (6.2675)      (5.4283)       (5.4420)
+Observations           1,955         2,026          2,026
+[R.sup.2]               .0857        .1461          .1447
+                      (7)          (8)
+Explanatory variable  >50          >50
+Marry                    .0062
+                        (.0061)
+Marry1                               -.0017
+                                     (.0049)
+Bearing                 -.0140 (**)  -.0110 (*)
+                        (.0056)      (.0057)
+Control
+Variables             Yes          Yes
+Constant                5.1145       4.6111
+                       (5.2550)     (5.2382)
+Observations            2,422        2,422
+[R.sup.2]                .0954        .0951
+Note. Standard error values are shown in parentheses.
+(*)p< .10. (**)p< .05. (***)p< .01.
+Table 7. Regression by Gender
+Explanatory variable  (1)           (2)            (3)
+                      Men           Women          Men
+Marry                  -.0002         -.0030
+                       (.0054)        (.0060)
+Marry 1                                             -.0001
+                                                    (.0001)
+Bearing                -.0104 (**)    -.0081 (*)    -.0105 (**)
+                       (.0047)        (.0041)       (.0049)
+Control variables     Yes           Yes            Yes
+Constant               9.8073 (***)  14.7869 (***)  9.8654 (***)
+                      (3.6575)       (3.4534)      (3.6592)
+Observations           2,055          2,393         2,055
+[R.sup.2]               .1375          .0963         .1365
+Explanatory variable  (4)
+                      Women
+Marry
+Marry 1                 -.0000
+                        (.0001)
+Bearing                 -.0072 (*)
+                        (.0038)
+Control variables     Yes
+Constant               14.3860 (***)
+                       (3.4650)
+Observations            2,393
+[R.sup.2]                .0963
+Note. Standard error values are shown in parentheses.
+(*)p< .10. (**)p< .05. (***)p< .01.
+Table 8. Regression by Hukou
+Explanatory variable  (1)            (2)            (3)
+                      Rural          Urban          Rural
+Marry                  -.0042         -.0078
+                       (.0054)        (.0062)
+Marry 1                                               .0001
+                                                     (.0000)
+Bearing                -.0115 (***)   -.0061 (*)     -.0102 (***)
+                       (.0036)        (.0033)        (.0030)
+Control variables     Yes            Yes            Yes
+Constant              11.3728 (***)  13.6307 (***)  11.1804 (***)
+                      (3.2981)       (3.8509)       (3.3027)
+Observations           2,595          1,853          2,595
+[R.sup.2]               .1247          .1030          .1234
+Explanatory variable  (4)
+                      Urban
+Marry
+Marry 1                 -.0050
+                       (.0042)
+Bearing                -.0058 (**)
+                       (.0027)
+Control variables     Yes
+Constant              13.6231 (***)
+                      (3.8980)
+Observations           1,853
+[R.sup.2]               .1040
+Note. Standard error values are shown in parentheses.
+(*)p< .10. (**)p< .05. (***)p< .01.
+Table 9. Intermediary Effect of Income in the Relationship of Parenting 
+Age and Happiness
+Explanatory variable  (1)            (2)            (3)
+                      Happy          Happy          Income
+Marry                   .0013          .0001          .0015
+                       (.0040)        (.0001)        (.0040)
+Bearing                -.0102 (***)   -.0068 (*)      .0003
+                       (.0036)        (.0039)        (.0035)
+Grandchild                             .1016 (***)
+                                      (.0363)
+Total income                           .0627 (**)
+                                      (.0248)
+Labor income                          -.0155 (*)
+                                      (.0088)
+Child                                  .0251 (*)
+                                      (.0135)
+Control variables     Yes            Yes            Yes
+Constant              12.9734 (***)  20.4030 (***)  11.6903 (***)
+                      (2.2303)       (4.5150)       (2.4194)
+Observations           4,448          2,493          4,448
+[R.sup.2]               .1012          .1344          .1698
+Explanatory variable  (4)             (5)            (6)
+                      Labor           Child          Grandchild
+Marry                   -.0066         -.0014 (***)   -.0057 (**)
+                        (.0045)        (.0001)        (.0023)
+Bearing                  .0083 (**)    -.0160 (***)   -.0155 (***)
+                        (.0040)        (.0039)        (.0020)
+Grandchild
+Total income                           -.0992 (***)   -.0169
+                                       (.0285)        (.0144)
+Labor income                            .0367         -.0054
+                                       (.0229)        (.0119)
+Child                                                  .0237 (**)
+                                                      (.0099)
+Control variables     Yes             Yes            Yes
+Constant              -28.5276 (***)  59.1435 (***)  45.9428 (***)
+                       (2.8252)       (2.9783)       (2.2306)
+Observations            4,448          4,448          2,493
+[R.sup.2]                .2551          .3110          .2590
+Note. Standard error values are shown in parentheses.
+(*)p< .10. (**)p< .05. (***)p< .01.
+Table 10. Test of the Relationship of Labor Income and Leisure Time in 
+Regard to Happiness
+Explanatory variable  (1)           (2)           (3)
+                      Leisure       Leisure       Leisure
+Total income            .1185 (**)   -.0273         -.1684 (**)
+                       (.0520)       (.0578)        (.0755)
+Labor income           -.0736 (*)    -.1424 (***)
+                       (.0400)       (.0479)
+Bearing                              -.0019         -.0033 (*)
+                                     (.0072)        (.0019)
+Leisure
+Marry
+Marry 1
+Control variables     No            Yes           Yes
+Constant               7.8425 (***)  7.3616        14.9001 (**)
+                      (0.0811)      (6.1617)       (6.3800)
+Observations           4,448         4,448          4,448
+[R.sup.2]               .0312         .1252          .1216
+Explanatory variable  (4)            (5)
+                      Happy          Happy
+Total income             .0391 (*)      .0404 (*)
+                        (.0212)        (.0215)
+Labor income            -.0295 (*)     -.0286 (*)
+                        (.0168)        (.0161)
+Bearing                 -.0088 (**)    -.0078 (***)
+                        (.0036)        (.0029)
+Leisure                  .0280 (***)    .0281 (***)
+                        (.0062)        (.0063)
+Marry                                   .0367
+                                       (.0229)
+Marry 1                  .0007          .0000
+                        (.0040)        (.0001)
+Control variables     Yes            Yes
+Constant               12.1434 (***)  11.9199 (***)
+                       (2.8031)       (2.828)
+Observations            4,448          4,448
+[R.sup.2]                .1131          .1123
+Note. Standard error values are shown in parentheses.
+(*)p< .10. (**)p< .05. (***)p< .01.
+Table 11. Bootstrapping Analysis Test Results
+Intermediary variable  (1)           (2)         (3)
+                       Total         Labor       Child
+Indirect effect         .0000        -.0002 (*)  -.0005 (*)
+                       (.0001)       (.0001)     (.0002)
+Direct effect          -.0101 (***)  -.0098 (**) -.0079 (***)
+                       (.0039)       (.0043)     (.0028)
+Control variables      Yes           Yes         Yes
+Observations           4,448         4,448       4,448
+Intermediary variable  (4)           (5)
+                       Grandchild    Leisure
+Indirect effect        -.0015 (***)  -.0055 (***)
+                       (.0006)       (.0018)
+Direct effect          -.0066 (*)    -.0291 (*)
+                       (.0035)       (.0175)
+Control variables      Yes           Yes
+Observations           2,438         4,448
+Note. Standard error values are shown in parentheses.
+(*)p< .10. (**)p< .05. (***)p< .01.
+
+Copyright: COPYRIGHT 2023 Scientific Journal Publishers, Ltd.
+http://www.sbp-journal.com/
+Source Citation
+Source Citation   
+MLA 9th Edition APA 7th Edition Chicago 17th Edition Harvard
+Wan, Chunlin, et al. "Do marrying later and parenting later affect happiness? Analysis of data from the Chinese General Social Survey." Social Behavior and Personality: An International Journal, vol. 51, no. 10, Oct. 2023, pp. 1k+. Gale Academic OneFile, link.gale.com/apps/doc/A770168502/AONE?u=byuprovo&sid=bookmark-AONE&xid=2b4f70be. Accessed 3 Dec. 2023.
+DisclaimerSelect
+Export To:
+
+NoodleTools 
+EasyBib 
+RefWorks 
+Google Drive™ 
+OneDrive™ 
+Download RIS*
+*The RIS file format can be used with EndNote, ProCite, Reference Manager, and Zotero.
+Gale Document Number: GALE|A770168502
+
+MORE LIKE THIS
+The relationship between happiness, health, and socioeconomic factors: Results based on Swedish microdata.
+The Journal of Socio-Economics, Nov. 2001.
+Women's employment, marital happiness, and divorce *
+Social Forces, Dec. 2002.
+Happiness and foreign aid
+Atlantic Economic Journal, Sept. 2009.
+View All Related Articles
+EXPLORE
+More Like This
+The relationship between happiness, health, and socioeconomic factors: Results based on Swedish microdata.
+The Journal of Socio-Economics, Nov. 2001.
+Women's employment, marital happiness, and divorce *
+Social Forces, Dec. 2002.
+Happiness and foreign aid
+Atlantic Economic Journal, Sept. 2009.
+View All Related Articles
+Related Subjects
+Parenting
+Happiness
+Marriage
+Gale Logo
+Footer
+ABOUT HELPDICTIONARYCONTACT USTERMS OF USEPRIVACY POLICYACCESSIBILITYEND SESSION
+
+
+Define
+Add a note to your highlighted text...
+Save

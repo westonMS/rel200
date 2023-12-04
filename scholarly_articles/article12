@@ -1,0 +1,809 @@
+Skip to Content
+Library Menu: Brigham Young University - Utah
+English
+
+Sign in with Google
+Sign in with Microsoft
+
+GALE ACADEMIC ONEFILE
+Toolbar
+Search...
+Advanced Search
+
+Cite
+
+Send To...
+
+Download
+
+Print
+
+Get Link
+Highlights And Notes
+Age at marriage and the risk of divorce in England and Wales
+Citation metadata
+Author: Richard Lampard
+Date: July-December 2013
+From: Demographic Research(Vol. 29)
+Publisher: Max Planck Institute for Demographic Research
+Document Type: Report
+Length: 11,069 words
+DOI: http://dx.doi.org.byu.idm.oclc.org/10.4054/DemRes.2013.29.7
+Document controls
+
+Translate
+
+Decrease font size
+
+Increase font size
+
+Display options
+
+Listen
+ Send to Google Drive™
+ Send to Microsoft OneDrive™
+
+Email
+Download
+Print
+Main content
+Abstract: 
+BACKGROUND
+
+A well-documented association exists between age at marriage and the risk of divorce. However, substantial gaps in our knowledge and understanding of its origins, nature, and implications still exist.
+
+OBJECTIVES
+
+This article documents the relationship between women's ages at first marriage and marriage cohort divorce rates, assessing the importance of relative ages at marriage (based on rankings within marriage cohorts) and of absolute, chronological ages at marriage, and evaluating the contribution of changes in the age at marriage distribution to observed divorce rates.
+
+METHODS
+
+Direct standardisation and logistic regression analyses are applied to published marriage and divorce data for the 1974-1994 marriage cohorts in England and Wales.
+
+RESULTS
+
+Changing ages at marriage appear to have constrained the rise in divorce across the cohorts examined. However, the results suggest that much of the impact of age at marriage is linked to relative ages, reducing the extent of this 'braking' effect. It also appears that a positive effect of relative age at marriage on the risk of divorce for later marriages is outweighed by the negative effect of absolute age at marriage at higher ages.
+
+CONCLUSIONS
+
+Both explanations relating to 'maturity' and explanations focusing on 'selection' or 'marriage markets' appear of relevance to the association between age at marriage and divorce.
+
+COMMENTS
+
+The data source provides over five million cases; however, it does not provide any scope to control for cohabitation, education, etc., and the analyses are restricted to divorces within about ten years of marriage. Further, related studies would be useful.
+
+Table of Contents
+
+1 Introduction
+1.1 Age at marriage and the risk of marital dissolution
+1.2 Theorising age at marriage and its impact on the risk of marital
+  dissolution
+1.3 Relating theoretical accounts to observed patterns and trends
+  in the relationship between age at marriage and marital instability/
+  marital dissolution
+2 Method
+2.1 Data
+2.2 Analyses, models, and variables
+3 Findings
+3.1 Trends in age at marriage-specific divorce rates
+3.2 The changing relationship between age at marriage and the risk of
+  divorce: Logistic regressions
+4 Discussion
+5 Acknowledgements
+References
+1. Introduction
+
+Various recent studies have focused upon the impact that changes in the ages at which demographic life-course events occur can have on period-based measures relating to those events. For example, Bongaarts and Feeney (1998) and Schoen (2004) have examined, and proposed ways of correcting for, the impact of delayed childbearing upon period fertility rates; Bongaarts and Feeney (2003) and Goldstein and Wachter (2006) have examined the relationship between cohort life expectancy and period measures of life expectancy; and Schoen and Canudas-Romo (2005, 2006) have examined both the impact of delayed marriage on a period measure of the proportion ever marrying and also the impact of the timing of divorce upon period divorce rates.
+
+An important feature of these studies is that, in showing period rates to be subject to distortions, in effect they set up cohort rates as a 'gold standard'. However, short-term trends in cohort rates can be affected by closely related forms of demographic change in a way that may similarly create a false impression of the likely nature of longer-term trends. More specifically, a decline in the marital dissolution rate in the US in the 1980s-1990s can be attributed primarily to rising ages at marriage (Heaton 2002: 402-403; see also Goldstein 1999: 411). Similarly, Amato et al. (2007: 96) note that rising ages at marriage compensated for the majority of an underlying negative trend in marital quality during the period 1980-2000, for various measures.
+
+This article examines the impact of trends in women's age at (first) marriage on cohort divorce rates in England and Wales, in the context of a broader examination of the relationship between women's age at (first) marriage and the risk of divorce. According to White (1990), the literature theorizing this relationship, as opposed to simply documenting it, is relatively limited; Glenn, Uecker, and Love (2010: 788) characterise this existing literature as consisting of several "theoretical fragments", albeit providing some relevant perspectives. Heaton (2002: 395) also suggests that surprisingly little attention has been paid to identifying the causal mechanisms linking age at marriage and marital instability. Like Glenn, Uecker, and Love (2010), this article focuses on the distinction between ages at marriage viewed in absolute and in relative terms, with relative age at marriage being defined with reference to the proportion of ages at marriage that are lower than a specified age.
+
+As discussed below (in Section 1.1), studies like this article which focus on the overall impact of age at marriage typically acknowledge that this impact will in part reflect selection effects arising from other socio-economic and demographic factors. However, the existing literature indicates that the age at marriage effect tends to be altered relatively little by the inclusion of the most obvious controls. Furthermore, a supplementary analysis by the author of data from the 2005 General Household Survey (GHS: ONS 2007a), corresponding to the marriage cohorts examined here, suggests that socio-economic controls can only account for a small minority of the age at marriage effect; controlling for children born or conceived before marriage increases it slightly, as does controlling for earlier (cohabiting) relationships. Nevertheless, a particularly important factor to consider, given its substantial growth across the cohorts examined here (Murphy 2000), is pre-marital cohabitation. Its implications for this article's findings are discussed further in the concluding section.
+
+1.1 Age at marriage and the risk of marital dissolution
+
+To help contextualise a subsequent review of theoretical literature, this section reviews empirically orientated literature relating to the association between age at marriage and the risk of marital dissolution. The importance of age at (first) marriage as a predictor of divorce has featured in the US literature for a number of decades (Bumpass and Sweet 1972; Martin and Bumpass 1989; White 1990). The primary finding is that early marriage is associated with an increased risk of divorce; furthermore, the effect of age at marriage on marital outcomes has been found to be non-linear, with the impact of a year's difference being most marked at younger ages (e.g. Heaton 2002: 404; Amato et al. 2007: 78).
+
+While Becker, Landes, and Michael (1977: 1160) reported an upturn in marital dissolution for ages at marriage of over 30, Glenn, Uecker, and Love (2010: 787) note that this has not in general been replicated by other studies. However, their own research identified a downturn in "marital success" as age at marriage increases (2010: 798), and an earlier study found an upturn in "marital instability" for later ages at marriages (Booth and Edwards 1985: 71). Conversely, Amato et al. (2007: 78) found that the effects of age at marriage on measures of divorce proneness, marital interaction, and marital problems, continued to be monotonic beyond age 30. Glenn, Uecker, and Love (2010: 787) suggest that a lack of focus on ages at marriage beyond 30 reflects small sub-sample sizes for such ages at marriage, identifying an ongoing need for research focusing on the outcomes for relatively late marriages (2010: 799).
+
+Research focusing on Britain has also identified a decline in the risk of marital dissolution as age at first marriage increases (Murphy 1985; Ermisch and Francesconi 1996; Berrington and Diamond 1999; Chan and Halpin 2005). In US studies age at marriage has often been operationalised as a single, interval-level variable, giving a linear effect (e.g., Heaton 2002: 401), whereas in British studies a quadratic term has typically been added, to take account of any levelling of the divorce risk as age at marriage increases (Murphy 1985; Ermisch and Francesconi 1996; Chan and Halpin 2005). Although an implication of the parameter estimates reported in these British studies is that the impact of increasing age at marriage on the risk of dissolution eventually becomes positive, the studies do not explicitly report an increased risk for higher ages at first marriage.
+
+Age at marriage is sometimes viewed as capturing the effects of other, uncontrolled factors (Lehrer 2008: 468), with some authors suggesting that its impact on marital outcomes could be a selection effect (Glenn, Uecker, and Love 2010: 789). However, in the US controlling for correlated factors such as educational level has been found to have little impact on age at marriage's effect on marital outcomes, including dissolution (Bumpass and Sweet 1972; Heaton, Albrecht and Martin 1985; Teachman, 2002; Heaton 2002: 401-4). British studies have identified a similar persistence in the effect of age at marriage, controlling for various socio-economic characteristics, childbearing histories, aspects of the marital formation process, and personal and family background characteristics (Murphy 1985: 448; Berrington and Diamond 1999: 34; Chan and Halpin 2005: 19); they have also indicated that the effect does not vary with marital duration, even after long durations (Murphy 1985: 459; Berrington and Diamond 1999: 36). Similar findings can be found in US studies (2), although Becker, Landes, and Michael (1977: 1159) found the effect of men's age at marriage to diminish with increasing marital duration.
+
+Despite the potentially important implications of trends in age at marriage for the nature of the relationship between marriage timing and marital instability (Booth and Edwards 1985: 67-73), there have been few published analyses of how the impact of age at marriage has varied over time. A US study suggested that the effect of age at marriage did not vary for women for marriages taking place from the early 1950s to the mid-1980s (Teachman 2002: 340); a UK study indicated that the effect of age at marriage was stronger for 1960s marriages than thereafter, but implied relative stability in the effect across 1970s and 1980s marriages (Chan and Halpin 2005: 13).
+
+1.2 Theorising age at marriage and its impact on the risk of marital dissolution
+
+Whether one would expect rising ages at marriage like those observed in Britain since 1970 (OPCS 1977; ONS 2007b; see also Table 3) to be accompanied by changes in the effect of age at marriage on the risk of dissolution depends in part upon how the effect of age at marriage is theorised (Glenn, Uecker, and Love 2010. 792), and, specifically, whether it is thought to be a reflection of the absolute characteristics or of the relative characteristics of different ages at marriage. Becker, Landes, and Michael (1977: 1182) commented that a secular trend in age at marriage may not lead to a trend in the risk of divorce if the risk reflects relative characteristics (3).
+
+Glenn, Uecker, and Love reflected in some detail on the ways in which specific theoretical interpretations of the relationship between age at marriage and marital outcomes tend, often implicitly, to view effects as reflecting either absolute or relative ages at marriage, with the former typically being the case for maturity-related explanations and the latter for interpretations focusing upon marriage markets or upon selection effects (2010: 789-790) (4).
+
+Moving on to a more detailed consideration of theoretical explanations of the relationship between age at marriage and marital outcomes, Glenn, Uecker, and Love (2010: 788) discuss the commonly posited 'maturation thesis'. While they refer to this primarily in terms of psychological maturation, they also mention the development of relationship skills and of earning ability, and the stabilization of expectations (see also Amato et al. 2007: 77-79). Similarly, Booth, and Edwards (1985) paint a picture of maturity as a multi-dimensional explanation of the relationship. Achieving maturity before marrying is often viewed as reducing the likelihood that an individual will change in some pertinent way, or that their assessment of the suitability of their partner will change (Oppenheimer 1988; Becker, Landes, and Michael 1977: 1156). It is also frequently suggested that individuals who marry early may be disproportionately likely to perform marital roles ineffectively, lacking familiarity with these roles and adequate role models. Booth and Edwards found that marital instability within early marriages reflected inadequate role performance for relationship features linked to communication and intimacy, and in relation to sexual exclusivity (1985: 68-73).
+
+An important body of theoretical ideas has a socio-economic, employment-related focus (e.g., Becker, Landes, and Michael 1977; Oppenheimer 1988; Becker 1991). Oppenheimer emphasises the importance of men's career development and, in particular, their transitions into stable work and achievement of career maturity (Oppenheimer, Kalmijn, and Lim 1997: 313), but acknowledges that the increasing similarity of women's labour market involvement to men's will have increased the importance of the point at which a woman's career has stabilised enough for her long-term economic characteristics to be apparent (Oppenheimer and Lew 1995: 108-109). In Britain, Kiernan and Eldridge (1987) found that, for most occupational groups, "the timing of [women's] marriage is compressed into a narrow range of years" (1987: 56), with this range depending upon the occupational group, suggesting a marked impact of career stage upon marriage timing. (5) Their findings also suggest that stratification-related differences should not necessarily be attributed to socio-economic maturity; they found higher qualifications were associated with delayed marriage, and that highest qualification was a stronger predictor of age at marriage than terminal age of education (1987: 54-55) (6).
+
+Theoretical analyses of marriage timing often view a lack of maturity as increasing the likelihood of a poor match, reflecting, for example, a shortfall in relevant information (Becker, Landes, and Michael 1977: 1156). The concept of mismatches also resonates with theoretical ideas relating to the search process and length of search involved in acquiring a partner (Glenn, Uecker, and Love 2010: 789): individuals for whom search costs are high may, initially, be more likely to accept a mismatch (Becker, Landes, and Michael 1977: 1151). Despite being sceptical about the impact of women's growing economic independence on age at marriage trends (Oppenheimer 1988, 1994; Oppenheimer, Kalmijn, and Lim 1997), Oppenheimer nevertheless suggests that greater economic resources may subsidise lengthier searches, encouraging women to risk setting a higher level of minimum acceptability for a partner's characteristics (Oppenheimer and Lew 1995: 107).
+
+Notwithstanding their advocacy for the relevance of inadequate role performance when evaluating theoretical explanations of the relationship between age at marriage and marital stability, Booth and Edwards (1985: 67) found little empirical support for explanations focusing on maturity or on poor matches. They also considered a number of context-related explanations: it has been suggested that the marriage market may provide those marrying early with more opportunities to form relationships with alternative partners, and that their social networks may provide more reasons to leave marriages than barriers to doing so (1985: 68). However, in practice they found neither of these explanations useful. (7)
+
+Theoretical accounts focusing on maturity, poor matches, and marriage markets have also been used to explain any upturn in the risk of dissolution or in instability for late marriages. Booth and Edwards (1985: 67-73) noted that single people may develop independent lifestyles rooted in broad social networks, suggesting that this can make achieving "interpersonal harmony" difficult. As such, mature identities do not necessarily promote coupledom. Poor matches may become more frequent at higher ages at marriage, either because criteria have been revised downwards (Becker, Landes, and Michael 1977: 1151), or because of a more restricted choice of partners (Booth and Edwards 1985: 69); a selection process may render such partners disproportionately likely to lack important attributes such as interpersonal skills.
+
+As evident above, the literature examining the relationship between age at marriage and the risk of marital dissolution incorporates a diverse range of material, with economic, cultural, social, demographic, interpersonal, and biosocial dimensions. However, it has only recently begun to engage explicitly with the idea of a Second Demographic Transition (SDT) (Lesthaeghe 1995), and with parallel discussions of changes relating to intimacy and coupledom in contemporary advanced industrial societies. Lesthaeghe views delayed entry into marriage as part of a broader set of demographic changes, driven as much by ideational change as by changes in female economic autonomy or male opportunity structures (1995: 58). Lehrer (2008: 482) considers this delay as one of the salient aspects of the SDT with regard to trends in marital dissolution.
+
+While Amato et al. (2007: 95) suggest that individualism, acting via cohabitation, has eroded "marital quality", the literature has not yet engaged extensively with ideas relating to individual autonomy and self-fulfilment such as those which feature in discussions of the SDT, despite their potential implications for stability and maturity. Rising ages at marriage have occurred in parallel with changes in the nature of intimate relationships that reflect the rise of individualism and the greater contemporary significance of self-identity (Giddens 1992; Beck and Beck-Gernsheim 1995) (8). When analysing (changes in) the impact of age at marriage on the risk of marital dissolution, it is worth remembering that marital formation and dissolution in contemporary Britain, as elsewhere, are occurring in a context where self-fulfilment has grown in importance at the expense of conformity.
+
+1.3 Relating theoretical accounts to observed patterns and trends in the relationship between age at marriage and marital instability/marital dissolution
+
+Various authors have discussed the implications of particular theoretical explanations for whether the relationship between age at marriage and the risk of dissolution should be expected to be linear or non-linear, and also for whether it should be expected to be monotonic or non-monotonic. Glenn, Uecker, and Love (2010: 789) suggest that seeing length of search as crucial arguably implies a non-monotonic poor match effect (see also Amato et al. 2007: 78, 94-95), and note more generally that a number of theoretical perspectives imply a non-monotonic effect, with the main perspectives implying a monotonic effect being the "maturity thesis" and the simplest form of the "length of search thesis", where there is no upturn in dissolution as length of search increases (2010: 790). While any flattening of the curve relating marital stability to age at marriage as the latter increases arguably undermines suggestions that the benefits of maturity or a longer search increase indefinitely (Glenn, Uecker, and Love 2010: 798), Lehrer (2008: 467-468, 482) suggests that a flattening at ages over thirty is a consequence of opposing maturity and poor match effects cancelling each other out.
+
+The implications of the various explanations of marriage timing, and of trends in marriage timing, for the ways in which the impact of age at marriage might be expected to have changed over time are far from straightforward. For example, if the ages at which women and men reach career maturity have on average risen, then one would expect the likelihood of mismatches occurring at some ages at marriage to have risen, and would consequently expect to see increased rates of dissolution for those ages relative to other ages, all other things being equal. However, it is not self-evident that one should expect to see equivalent increases in risk for all pre-maturity ages at marriage, or any increase for the earliest marriages.
+
+Since, to date, studies focusing on Britain have not found the effect of age at marriage on the risk of dissolution to vary with marital duration, explanations of the effect have needed to match this lack of variation to be convincing. Berrington and Diamond suggest that the absence of a decline in the effect as duration increases implies that "researchers should look beyond simple explanations which focus on a lack of preparedness for marriage among those who marry at a young age" (1999: 36), noting that such explanations have nevertheless been put forward repeatedly since the 1960s (1999: 23). More recently, Davis and Greenstein (2004) have suggested that "traditional women" (9) who marry early may be particularly likely to have prepared for marriage ineffectively, having focused on their domestic role rather than marriage per se. Their findings thus highlight the possibility that the impact of age at marriage varies between sub-groups. Another possible source of such heterogeneity was identified by Glenn, Uecker, and Love (2010: 789-790), who noted that, assuming that the impact of age at marriage depends upon relative ages, the apparent impact of absolute age at marriage may consequently vary in form between subgroups whose typical ages at marriage differ, such as individuals at different educational levels.
+
+Glenn, Uecker, and Love (2010: 790) suggest that the diversity of the theoretical accounts of the relationship between age at marriage and marital outcomes promotes the value of an approach where the emphasis is on the relationship's observed features, with these being used as a point of reference for assessing the credibility of different accounts, as opposed to a hypothesis-testing approach assessing whether observed findings are consistent with predictions derived from a particular theoretical account. However, the range and detail of the empirical findings currently available arguably fall short of providing convincing support for the predominance of any existing theoretical account.
+
+2. Method
+
+2.1 Data
+
+Glenn, Uecker, and Love (2010: 792) suggest that theoretical considerations indicate a need for gender-specific analyses of the impact of age at marriage on the risk of marital dissolution. For consistency with (most) earlier studies, this present article focuses on women's ages at first marriage. (10) The data examined relate to the 1974-1994 marriage cohorts and were obtained from an annual official publication documenting patterns of marriage and divorce in England and Wales, with data being drawn from all the relevant issues across a thirty year period (OPCS 1977; ONS 2007b11) and corresponding to 5,422,453 marriages.
+
+The range of marriage cohorts considered had to be balanced against the duration at which the marital histories of the most recent marriage cohort selected were right-censored. Official data (Wilson and Smallwood 2008: 31) suggest that, for the relevant marriage cohorts, most divorces will have occurred within the first ten years of marriage, notwithstanding the proportion varying to some degree between cohorts and between different ages at marriage.
+
+Hence this article focuses upon the 1974-1994 marriage cohorts, and upon the divorces occurring within these cohorts over a period starting with the calendar year of marriage and incorporating the ten subsequent calendar years. (12) The published data relating divorces to ages at marriage categorise the latter into five-year bands, constraining to a degree the levels of detail and precision of the analyses in this article.
+
+The divorce rates calculated in this article do not account for mortality within the first ten years of marriage, and hence slightly under-estimate the risk of divorce. (13) However, an examination of published age-specific mortality rates indicated that the implications for the patterns and trends examined in this article were insufficiently marked to substantially affect its findings or alter its conclusions.
+
+2.2 Analyses, models, and variables
+
+In this article trends in divorce according to age at first marriage are examined using both the proportion of marriages ending in divorce (Table 1) and the log odds of divorce (Table 2). Overall cohort divorce rates (proportions) which have been standardised using direct standardisation to take account of the changing age at marriage distribution, and thus indicate the underlying rise in the risk of divorce between the 1974 and 1994 cohorts, are also presented.
+
+Binary logistic regressions, with (the log odds of) divorce as the dependent variable have frequently been used for multivariate analyses of divorce. In this article they are used for a more specific purpose, i.e., to assess the extent to which the effect of age at marriage on the risk of divorce, and changes in this effect, reflect whether women were early or late marriers relative to other members of their marriage cohorts (14), as compared to reflecting their absolute, chronological age at marriage. (15) The explanatory variables in these logistic regressions are age at marriage and year of marriage, along with further variables accounting for the (non-linear) impact of relative age at marriage, and interaction terms linking the impact of some of the age-at-marriage-related variables to year of marriage.
+
+If the impact on a woman's risk of divorce of whether she married relatively early or relatively late, operationalised by a variable ranking her age at marriage in proportional terms (16), is assumed to be linear, then a variable quantifying the average impact for women within an age at marriage category can be calculated using an average ranking derived from the proportions of women marrying at ages below the lower and upper bounds of that category. For example, in the 1974 marriage cohort the proportion of ages at first marriage falling below 20 was 0.322, and the proportion lying within the range 20-24 was 0.483. Thus, for the 20-24 age at marriage category, this 'average impact' variable has a value of
+
+(0.322 + (0.322 + 0.483))/2 = 0.564
+
+Since this variable is based on the median proportional ranking of the ages at marriage of the women within each category, it is referred to here as the median ranking measure. (17) Given that the impact of relative age at marriage may be non-linear, the logistic regressions also utilise additional variables corresponding to particular ranges within the relative age at marriage distribution. These, in combination with the median ranking measure, operationalise the impact of relative age at marriage in a piecewise way, as a linear spline.
+
+3. Findings
+
+The first part of this section compares the trends in divorce rates across the marriage cohorts for different ages at marriage, feeding these age-specific rates and the changing age at marriage distribution into standardised overall divorce rates for the earliest and most recent cohorts. The second part constructs statistical models of the effects of marriage cohort, age at marriage, and their interaction (Models 1-4), and then uses this interaction as a means of decomposing the age at marriage effect into relative and absolute components, moving from a flexible parameterisation of the relative effect (in Models 5-6) to one representing it as a linear spline (Models 7-10).
+
+3.1 Trends in age at marriage-specific divorce rates
+
+Table 1 and Figure 1 show the proportions of first marriages ending in divorce within approximately ten years for the 1974-1994 marriage cohorts in England and Wales, according to women's ages at marriage. The risk of divorce decreases monotonically as age at marriage increases, lacking the upturn in risk sometimes reported for the US and implied by some theoretical models. Equally striking is the marked growth in divorce for all ages at marriage.
+
+However, the trend in divorce differs visibly according to age at marriage. The largest difference between the proportions for 1974 and 1994 corresponds to the 'Under 20' category, and the smallest to the '50 plus' category. However, assessing change in terms of the ratio of the 1994 and 1974 proportions implies that the increase is greater for the '50 plus' category. More generally, irrespective of whether one examines differences in proportions or ratios of proportions, systematic variations in the trends according to age at marriage are apparent.
+
+While the differences between the proportions divorcing for the four lowest age at marriage categories all grow over time, they do so in different ways. Specifically, the proportions for the two lowest age at marriage categories, 'Under 20' and '20-24', diverge to a lesser extent than the proportions for the '20-24' and '25-29' categories; the difference in proportions between the '25-29' and '30-34' categories increases to a similar extent to the difference between the 'Under 20' and '20-24' categories, but starting from a small initial value, thus increasing markedly more from a multiplicative perspective than the other two differences. There is no clear trend across the cohorts in the difference in proportions between the '30-34' and '35-39' categories. Between the 1974 and 1994 cohorts, the proportions for the '35-39', '40-44' and '45-49' categories appear in broad terms to converge. The proportion for the highest age at marriage category, '50 plus', diverges fairly steadily from those for the other categories, including the '45-49' category.
+
+However, in a situation like that visible in Table 1 and Figure 1, where substantial change over time is occurring in a set of proportions that initially vary markedly in magnitude, focusing on differences between proportions is not necessarily the most appropriate way of examining how categories are changing over time relative to each other. (18) Moving on from the above examination of proportions to an examination of log odds, as used later within logistic regressions, in effect incorporates a shift from additive comparisons, based upon differences between proportions, to multiplicative comparisons, based upon odds ratios. This shift leads to findings that differ subtly from those within the above discussion.
+
+Table 2 and Figure 2 show the log odds of first marriages ending in divorce within approximately ten years for the 1974-1994 marriage cohorts, according to the wife's age at marriage. If anything, the values for the 'Under 20' and '20-24' categories appear to be converging. There is also clearer evidence of a convergence between the '40-44' and '45-49' categories than was the case for the proportions divorcing. The '50 plus' category still appears to diverge from the '45-49' category, but to be converging with the other categories. Overall, the broad trends evident from Table 2 and Figure 2 are a relative increase in the log odds corresponding to ages at marriage of under 30 when compared to the log odds corresponding to the range 30-39, together with a convergence of the log odds for the four categories within the range 30-49.
+
+Notwithstanding the between-category variations in trends discussed above, it is striking that the degree of consistency of the increases in the log odds of divorce for the different age at marriage categories appears greater than the degree of consistency of the increases in the proportions divorcing for the different categories. Arguably, this suggests that the primary determinants of the overall upward trend in divorce should be interpreted as having an impact upon the odds of divorce rather than upon the proportion divorcing. If so, then the between-category differences in trends visible in Table 2 and Figure 2 best represent variations in the impact of age at marriage across cohorts.
+
+
+The percentage increases between the 1974 and 1994 marriage cohorts in age-at-marriage-specific proportions divorcing vary within the range of 70% to (just over) 100% for ages at marriage of under 40, but are markedly greater for higher ages at marriage. However, the overall proportion divorcing only increased by about 44%, from 0.190 to 0.273. This superficially paradoxical finding simply reflects the impact of changes in the distribution of ages at marriage between the 1974 and 1994 cohorts. As Table 3 shows, the proportion of ages at marriage which were under 20 declined continuously during this period, the proportion in the range 20-24 grew and then fell, and the proportions in the ranges 25-29, 30-34, and 35-39 grew, especially from the early 1980s onwards. These changes reflect a general upward shift in ages at marriage for women marrying at ages under 40. However, the small proportions in the three highest age at marriage categories initially declined but then increased again: the changes in the age at marriage distribution between the 1974 and 1994 cohorts thus do not simply reflect a straightforward trend towards later marriage.
+
+Nevertheless, given the ongoing negative relationship between age at marriage and the risk of divorce, the fact that the primary form of change in the age at marriage distribution was a trend towards later marriage will have reduced the magnitude of the change in the overall proportion divorcing between the 1974 and 1994 marriage cohorts. Thus changing patterns of marital formation have arguably obscured the extent to which the underlying risk of divorce changed between these cohorts.
+
+Quantifying the magnitude of this underlying growth in the risk of divorce necessitates a relatively straightforward form of (direct) standardisation: the age-at-marriage-specific proportions divorcing for the 1974 and 1994 cohorts can be used in combination with the 1974 cohort's age at marriage distribution to produce standardised overall proportions divorcing for these cohorts.
+
+If [a.sub.ij] is the proportion of wives in age at marriage category i for cohort j, and [d.sub.ij] is the proportion divorcing for age at marriage category i for cohort j, then the overall proportion divorcing for cohort j is
+
+[summation over i] [a.sub.ij][d.sub.ij]
+
+
+Standardised proportions divorcing, using cohort k as the point of reference, can thus be produced by replacing [a.sub.ij] by [a.sub.ik] for all values of j.
+
+On the basis of the relevant values from Tables 1 and 3, the standardised overall proportions divorcing for the 1974 and 1994 cohorts are 0.190 and 0.356; thus the underlying increase in the proportion divorcing appears to be 87%, nearly twice the actual increase of 44%. However, the above standardisation process makes the implicit assumption that if a woman within the 1994 marriage cohort had married earlier she would have experienced an increased risk of divorce consistent with the proportion divorcing corresponding to this earlier age at marriage for the 1994 cohort. This assumption's validity rests on a further assumption: that the impact of age at marriage on the risk of divorce for a particular cohort is a reflection of absolute, chronological age at marriage, rather than reflecting the characteristics of women who married at each age within that cohort, including the rankings of their ages at marriage relative to the rest of their marriage cohort. (19)
+
+3.2 The changing relationship between age at marriage and the risk of divorce: Logistic regressions
+
+In this section a series of binary logistic regression models, with divorce (within approximately ten years of marriage) as the dependent variable, are used to assess the extent to which the effect of age at marriage on the risk of divorce, and changes in this effect, are a reflection of women being early marriers or late marriers relative to other members of their marriage cohorts, as opposed to reflecting absolute, chronological age at marriage. Table 4 shows parameter estimates from key models: changes in the age at marriage effect between Models 2 and 8 correspond, as discussed below, to the removal of the impact of relative age at marriage. Table 5 documents changes in fit between adjacent models.
+
+Model 1 includes a single, categorical independent variable: year of marriage. This model's parameter estimates (see Table 4) indicate that the overall odds of divorce rose by a factor of 1.60 between the 1974 and 1994 marriage cohorts. However, taking account of age at marriage in Model 2 via an additional, eight-category independent variable results in an increase from 1.60 to 2.41 in the effect on the odds of divorce attributable to change between the 1974 and 1994 marriage cohorts, mirroring the greater underlying increase in the proportion divorcing discussed in the preceding section. Furthermore, much of the non-linearity within the trend in the log odds of divorce is accounted for by changes in the age at marriage distribution: the benefit of using categories rather than a scale to represent year of marriage is largely eliminated when age at marriage is included. (20,21) Figure 3, a graphical display of the parameter estimates for year of marriage from Models 1 and 2, illustrates this visually, also showing the steeper increase in the log odds of divorce when age at marriage is taken into account.
+
+As noted in the preceding section, and visible in Table 2 and Figure 2, the impact of age at marriage on the log odds of divorce changes across the marriage cohorts. Adding the interaction between age at marriage and year of marriage to the model improves its fit significantly; the results for Models 3 and 4 (Table 5) show that most of this improvement can be related to linear trends in the effects for different ages at marriage. (22) The parameter estimates for the interaction from Model 4 (Table 4) echo the trends discussed in the preceding section, i.e., a relative increase in the log odds corresponding to ages at marriage of under 30 when compared to those for the age range 30-39, together with a convergence of the log odds for categories within the age range 30-49.
+
+The trends in the effects of age at marriage suggested by the parameter estimates for Model 4 could be a reflection of changes in the effect of age at marriage viewed in absolute terms. On the other hand, the trends could be a reflection of changes in the composition of the age at marriage categories in terms of relative ages at marriage. For marriage cohorts covering a period such as 1974-1994, during which there were substantial changes in the age at marriage distribution, the contribution to the trends made by the latter form of change would seem likely to dominate the contribution made by the former type of change. (23)
+
+In fact, the contribution to the trends made by changes in the composition of the age at marriage categories can be modelled in a more specific way, by incorporating within the model a variable or variables which take account of the way in which relative ages at marriage contribute to the overall impacts for the various age at marriage categories. The simplest way of doing this involves assuming that the impact of relative age at marriage is linear, in which case the relevant variable is the median ranking measure discussed in Section 2.2 and documented in Table 6.
+
+However, the theoretical literature suggests that the impact of relative age at marriage may be non-linear. To allow for this a set of variables was constructed which, in effect, collectively represent the impact of relative age at marriage in a piecewise way, as a series of 'steps', each relating to a particular range within the relative age at marriage distribution. Each age at marriage category, within any given cohort, also corresponds to a range within this distribution; the values of the set of 'step variables' for that category in that cohort are equal to the proportions of that category's ages at marriage falling into each of the ranges covered by the step variables.
+
+
+Initially, the width used for the ranges covered by the step variables was 0.2. However, given the theoretical importance of the youngest ages at marriage, and since the higher age at marriage categories provided more extensive information about changes towards the top of the relative age at marriage distribution (see Table 6), some ranges were split further. The lower bounds for the final set of intervals used for the step variables were 0, 0.05, 0.1, 0.2, 0.4, 0.6, 0.8, 0.9, 0.95, 0.98, 0.99 and 0.995.
+
+When the set of step variables is added to Model 2 (giving Model 5), the change in model fit is not that much smaller than that obtained by the inclusion of the age at marriage by year of marriage interaction term in Model 4 (see Table 5). (24) The further improvement in model fit obtained by adding to Model 5 the same interaction term as in Model 4 (giving Model 6; see Table 5) indicates that the step variables account for about three-quarters of the improvement in fit obtained by allowing for linear trends in the effects of ages at marriage. This implies that some of the improvement in fit provided by the step variables in Model 5 corresponds to their ability to account for non-linear trends in the effects of ages at marriage.
+
+Figure 4 provides a striking visualisation of the parameter estimates for the step variables, plotted against the midpoints of the ranges to which they correspond. The implications of the plot are, in broad terms, that the impact of relative age at marriage on the log odds of divorce takes the form of an approximately linear decline in log odds as relative age at marriage increases, up as far as the 0.90-0.95 range, with some evidence that the decline is steeper for the youngest ages at marriage. After the 0.900.95 range the log odds increase substantially and rapidly. (25) Thus the observed pattern appears consistent with those theoretical accounts, including some which focus on poor match or selection effects, that suggest that an increasing relative age at marriage should be associated with a decreasing risk of divorce, but also that for the highest relative ages at marriage this association should reverse. More specifically, the findings suggest that there may be something particularly distinctive about the earliest 5% and latest 5% of marriages.
+
+While the step variables provided a useful and relatively straightforward way of establishing, empirically and in broad terms, the nature of the impact of relative age at marriage on the log odds of divorce, they have the disadvantage of not allowing the impact to vary within the range corresponding to each variable, resulting in discontinuities in the effect at the boundaries between ranges. Therefore, using the pattern in Figure 4 as a point of reference, a linear spline was constructed to represent the impact of relative age at marriage. Representing the impact as a spline with a single segment is mathematically identical to using the median ranking measure (see Section 2.2) as a variable; adding this measure to Model 2, giving Model 7, accounted for about two-thirds of the improvement in fit that was achieved by Model 5 using the step variables (see Table 5). Further segments were added to the spline. (a) to model a steeper decline in risk across the youngest 5% of ages at marriage, (b) to model a mild increase in risk across the oldest 12.5%, and (c) to model a substantial increase in risk across the oldest 1%. (26)
+
+Figure 5 shows the spline obtained using the median ranking measure in combination with amendments (a) to (c) above. Adding this representation of the impact of relative age at marriage to Model 2, giving Model 8, results in a greater improvement in fit than achieved by adding the step variables to give Model 5 (see Table 5). (27) Note that there is only a shallow upwards trend in the segment between 0.875 and 0.99; superficially, this suggests that the fluctuations in the estimates for the step variables corresponding to the range 0.8-0.99 may create a misleading impression of how early it is that relative age at marriage starts having a marked positive impact on the risk of divorce, an issue revisited later in the article. (28)
+
+
+The parameter estimates for age at marriage from Models 2 and 8 (see Table 4) demonstrate what happens to the impact of the age at marriage categories when the linear spline representing the impact of relative age at marriage is introduced. As Figure 6 makes evident, the overall range of the parameter estimates does not change much, but the balance of importance shifts away from differences between the categories for younger ages at marriage towards differences between the categories for older ages at marriage, with the first three differences decreasing in magnitude by about 40% and the last two increasing in magnitude by more than 50%. In other words, a substantial part of the overall age at marriage effect at younger ages can be attributed to relative ages at marriage, whereas, at older ages, relative ages at marriage suppress some of the impact of absolute age at marriage.
+
+The above findings provide support for the argument that both age at marriage viewed in absolute terms and age at marriage viewed in relative terms make important contributions to the overall impact of age at marriage. In turn, this provides a degree of support for the different kinds of explanations that have typically been linked to these two alternatives, i.e., maturity-related effects on the one hand and marriage-market-related or selection effects on the other.
+
+The Model 8 parameter estimates also show that introducing the linear spline to represent the impact of relative age at marriage has implications for the effect of controlling for age at marriage on the change in the log odds of divorce between the 1974 and 1994 cohorts. Specifically, compared to the difference between Models 1 and 2, the increase in this change is reduced by more than 40% (see Table 4) (29); the change in the odds of divorce once age at marriage has been controlled for is now a multiplicative factor of 2.03 (Model 8) rather than 2.41 (Model 2), as compared to the starting point of 1.60 (Model 1). In other words, controlling for age at marriage still reveals a steeper underlying upwards trend in the odds of divorce, but the 'damping' effect arising from increasing age at marriage is less marked when a substantial proportion of the age at marriage effect on the risk of divorce is interpreted as relating to relative rather than absolute age at marriage.
+
+A further, substantial improvement in model fit can be obtained by adding to Model 8 the same interaction between age at marriage and year of marriage as in Model 4 (giving Model 9; see Table 5). This improvement in fit largely reflects the convergence of the risks for the categories corresponding to the age ranges from 30-34 to 45-49, with the vast majority of the improvement in fit relating to the cohorts from 1986 to 1994. Model 8 predicts a divergence of risk for these categories across the cohorts in question. However, if a term is added to Model 8 (giving Model 10; see Table 5) which represents an additional upwards slope within the spline, starting from zero in 1986 and becoming steeper thereafter, and corresponding to an increasing, positive impact on the log odds of divorce for the highest 5% of relative ages at marriage, then all but a small part of the improvement in fit offered by Model 9 is accounted for.
+
+The implication of this additional, cohort-specific component of the spline within Model 10 is that the positive impact of relative age at marriage on the log odds of divorce for the top 5% of ages at marriage increased across the 1986 to 1994 cohorts. Note that the proportion of marriages at ages of 30 or more only rose from 6.5% to 8.6% between 1974 and 1986, but had risen to 19.0% by 1994 (see Table 3). This period of rapid change may have disrupted the meaning of the highest 5% of relative ages at marriage, perhaps, for example, meaning they no longer corresponded to the same extent to couples who were particularly socio-economically advantaged. If that was the case, then an increased risk of divorce arising from other, different selection effects, or from marriage market effects, could then have become dominant among the highest 5% of relative ages at marriage.
+
+
+In other words, the shallow upwards trend of the spline in Figure 5 over the range 0.875 to 0.99 may reflect the effects of different factors associated with high relative ages at marriage cancelling each other out within the 1974-1986 cohorts: this serves as a useful reminder that the couples marked out by the highest 5% of ages at marriage may be quite heterogeneous. It is possible that, up until 1986, this heterogeneous mix of couples contained two substantial sub-groups: first, highly socio-economically advantaged couples and, second, couples selected into late marriage because of less advantageous characteristics, but that after 1986 the 'damping' effect on the overall risk of divorce for late marriages provided by the first sub-group declined, as its importance within the broader group decreased in proportional terms, perhaps because of an influx of individuals marrying late after relatively long periods of pre-marital cohabitation.
+
+4. Discussion
+
+As noted in the introduction, short-term trends across cohorts do not always give a valid impression of underlying trends. A key finding of this article is that an upwards shift in the age at marriage distribution in England and Wales between 1974 and 1994 resulted in the odds of divorce (within approximately a decade after marriage) only rising by a factor of 1.60, rather than the factor of 2.03 that would have applied if the age at marriage distribution had remained unchanged. Thus the upward trend in divorce suggested by cohort rates is markedly weaker than the underlying trend.
+
+A crucial feature of the above finding is that it takes account of the extent to which the impact of age at marriage on the risk of divorce is a reflection of the ranking (relative position) within the age at marriage distribution of women marrying at a particular age, as opposed to a reflection of their age at marriage in chronological (absolute) terms. Hence the 'damping' effect of the changing age at marriage distribution, as identified above, is not an artefact of a false assumption that it is chronological age at marriage which matters, rather than relative age.
+
+However, while this article's findings indicate that chronological ages at marriage do matter, i.e., that they are associated with the risk of divorce, the findings also suggest that changing age at marriage patterns have resulted in a transfer of 'higher risk' women from lower to higher ages at marriage. This mixture of absolute and relative effects has implications for an evaluation of the relative merits of the various possible theoretical explanations of the impact of age at marriage on the risk of divorce, as outlined earlier.
+
+The finding that absolute, chronological age at marriage has a substantial effect on the risk of divorce suggests that the more plausible explanations of the increased risk of divorce for those marrying young in absolute terms are of salience. Authors such as Berrington and Diamond (1999) suggest that explanations focusing upon a lack of preparedness are inconsistent with the increased risk persisting as marital duration rises. If one accepts this view, then the most persuasive explanations would seem to be those focusing on a lack of maturity. Possible consequences of this lack of maturity include a greater likelihood of change, whether in terms of self-identity or of socio-economic status and prospects, and a greater likelihood of entering into a relatively unsatisfactory relationship, reflecting a greater risk of misjudgements about potential partners or about the marriage market more generally.
+
+The finding that relative age at marriage is also of relevance suggests, more specifically, that women with a higher risk of divorce are over-represented both at younger ages at marriage and also at the latest ages. As noted earlier, Glenn, Uecker, and Love (2010) report that authors typically link such relative effects to marriage market and selection-based explanations. More specifically, a broad set of hypotheses about women who marry relatively young, which appear consistent with both this article's findings and also Becker's analytical framework, can be constructed: on average, women marrying relatively early are less accurate in their assessment of partners and of the marriage market, are more likely to accept a partner of any given degree of appropriateness and consequently more likely to have searched for a partner over a relatively short period of time, do not demand as good a fit between a prospective partner and their own self-identity, and may not demand as high levels of emotional intimacy and communication with a partner as other women do.
+
+A relatively unusual feature of this article is that it generates useful findings relating to the other end of the age at marriage spectrum. It is only for the very latest marriages that there seems to be an increased risk of dissolution, suggesting that the marriage market and selection-based explanations of an increased risk of poor outcomes for late marriages are only applicable to a very narrow band of marriages. However, as suggested below, such explanations may until recently have been counter-balanced across a rather broader range of marriages by a competing, negative impact of relative age at marriage on the risk of dissolution.
+
+The convergence of the observed risk of divorce for ages at marriage between 30 and 49 reflects an overall weakening of the discriminatory power of age at marriage within this age range. However, it appears from the findings in this article that this convergence may reflect an increased positive effect of relative age at marriage on the risk of divorce for later marriages, cancelling out some of the negative effect of absolute, chronological age at marriage within this age range. This increased positive effect in turn may reflect a decreased negative effect, arising from a declining association between marrying relatively late and other pertinent characteristic(s), such as socio-economic advantage. This finding serves both to highlight the probable complexity of the effects of age at marriage and also to highlight the desirability of controlling for other, related factors, notwithstanding the limited impact of such controls within both earlier studies focusing on the effects of age at marriage and also the author's own exploratory analyses.
+
+
+Since the fit of Model 10 (see Table 5) can be improved very little by including a term corresponding to changes between cohorts in the impact of absolute age at marriage, the terms within Model 10 which correspond to the impact of relative age at marriage account for virtually all of the difference between the 1974 and 1994 cohorts in the form of the overall age at marriage effect. Assuming that the substantial impact of absolute age at marriage on the risk of divorce reflects maturity-related explanations, there thus appears to have been minimal secular change in the salience of such explanations. Consequently, while a process of individualisation and an increase in women's economic autonomy in the latter part of the twentieth century may each have led to an increase in the broad risk of divorce, any changes relating to the ages at which individuals attain a relatively stable self-identity or reach economic maturity do not appear to have been echoed by changes in the relationship between absolute age at marriage and the risk of divorce. This may indicate that the form(s) of maturity of most relevance to the risk of divorce are ones that have remained relatively unaffected by the economic and socio-cultural changes accompanying the Second Demographic Transition. More generally, the apparent absence of secular change in the impact of absolute age at marriage acts as a reminder that, in the context of couple relationships, the substantial changes that have taken place over recent decades have been accompanied by considerable continuities.
+
+A limitation of this article is that it focuses on divorce by the end of the tenth calendar year following the year of marriage, since examining a longer period after marriage would not necessarily result in identical findings. Similarly, focusing on men's ages at marriage might not generate equivalent results. Furthermore, controlling for various relevant socio-economic and demographic factors is, in principle, also desirable, although in practice some of the most obvious factors appear to have limited implications for this article's findings.
+
+However, a key limitation, of increasing importance across the cohorts, is that this article's focus is restricted to legal marriage, rather than co-residence more generally. The late twentieth century saw a substantial growth in both pre-marital and other forms of cohabitation in Britain (Murphy 2000): this has implications both for the relevance of focusing on age at marriage, rather than at initial co-residence, and also for the validity of divorce trends as an indicator of trends in the dissolution of co-resident couple relationships more generally, since couples with a high risk of dissolution may now disproportionately contribute to cohabitation dissolution rates.
+
+Assessing the impact of the changing marriage/cohabitation balance is not straightforward (Goldstein 1999: 413). For example, given that an unknown, varying proportion of cohabiting relationships constitutes, in some sense, the contemporary equivalent of non-resident relationships among members of earlier birth cohorts, a focus on all co-resident relationships would not necessarily ensure an appropriate form of comparability over time. (30)
+
+Nevertheless, further exploratory analyses of the 2005 GHS data mentioned earlier were carried out, primarily to establish the broad effect of controlling for pre-marital cohabitation on the age at marriage effects and trends. In fact, controlling for premarital cohabitation increased the impact of age at marriage, and consequently increased the divergence of the log odds of divorce, for ages at marriage of under 40, across the cohorts. This suggests that the relative age at marriage effect derived from the trends documented here may under-estimate the actual effect, and that the balance of importance of the relative and absolute effects may consequently lean more towards the former than is implied by this article's findings, but without the substantive importance of either effect coming into question. (31)
+
+DOI: 10.4054/DemRes.2013.29.7
+
+5. Acknowledgements
+
+GHS data generated by the Office for National Statistics were accessed via the UK Data Archive; neither bears any responsibility for my analyses and interpretations. I am grateful to the reviewers for their constructive comments on the earlier version of this article.
+
+References
+
+Amato, P.R., Booth, A., Johnson, D.R., and Rogers, S.J. (2007). Alone together: How marriage in America is changing. Cambridge, MA: Harvard University Press.
+
+
+Beck, U. and Beck-Gernsheim, E. (1995). The normal chaos of love. Cambridge, UK: Polity Press.
+
+Becker, G.S. (1991). A treatise on the family (Enlarged edition). Cambridge, MA: Harvard University Press.
+
+Becker, G.S., Landes, E.M., and Michael, R.T. (1977). An economic analysis of marital instability. Journal of Political Economy 85(6): 1141-1188. doi:10.1086/ 260631.
+
+Berrington, A. and Diamond, I. (1999). Marital dissolution among the 1958 British birth cohort: The role of cohabitation. Population Studies 53(1): 19-38. doi: 10.1080/00324720308066.
+
+Bongaarts, J. and Feeney, G. (1998). On the quantum and tempo of fertility. Population and Development Review 24(2): 271-291. doi:10.2307/2807974.
+
+
+Bongaarts, J. and Feeney, G. (2003). Estimating mean lifetime. Proceedings of the National Academy of Sciences of the United States of America 100(23): 13127-13133. doi: 10.1073/pnas.2035060100.
+
+Booth, A. and Edwards, J.N. (1985). Age at marriage and marital instability. Journal of Marriage and the Family 47(1): 67-75. doi:10.2307/352069.
+
+Bumpass, L.L. and Sweet, J.A. (1972). Differentials in marital instability 1970. American Sociological Review 37(6): 754-766. doi:10.2307/2093585.
+
+Chan, T.W. and Halpin, B. (2005). The instability of divorce risk factors in the UK. Paper presented at the British Society for Population Studies annual conference, Canterbury, UK, September 2005.
+
+
+Davis, S.N. and Greenstein, T.N. (2004). Interactive effects of gender ideology and age at first marriage on women's marital disruption. Journal of Family Issues 25(5): 658-682. doi: 10.1177/0192513X03257795.
+
+Ermisch, J. and Francesconi, M. (1996). Partnership formation and dissolution in Great Britain. Colchester, UK: University of Essex (Working papers of the ESRC Research Centre on Micro-social Change: Paper 96-10).
+
+Giddens, A. (1992). The transformation of intimacy: Sexuality, love and eroticism in modern societies. Cambridge, UK: Polity Press.
+
+Glenn, N.D., Uecker, J.E., and Love, R.W.B. Jr. (2010). Later first marriage and marital success. Social Science Research 39(5): 787-800. doi:10.1016/j.ssresearch. 2010.06.002.
+
+Goldstein, J.R. (1999). The leveling of divorce in the United States. Demography 36(3): 409-414. doi:10.2307/2648063.
+
+
+Goldstein, J.R. and Wachter, K.W. (2006). Relationships between period and cohort life expectancy: Gaps and lags. Population Studies 60(3): 257-269. doi:10.1080/ 00324720600895876.
+
+Heaton, T.B. (2002). Factors contributing to increasing marital stability in the United States. Journal of Family Issues 23(3): 392-409. doi:10.1177/0192513X 02023003004.
+
+Heaton, T.B., Albrecht, S.L., and Martin, T.K. (1985). The timing of divorce. Journal of Marriage and the Family 47(3): 631-639. doi: 10.2307/352264.
+
+Kiernan, K.E. and Eldridge, S.M. (1987). Age at marriage: Inter- and intra-cohort variation. British Journal of Sociology 38(1): 44-65. doi:10.2307/590578.
+
+Lehrer, E.L. (2008). Age at marriage and marital instability: Revisiting the Becker-Landes-Michael hypothesis. Journal of Population Economics 21(2): 463-484. doi: 10.1007/s00148-006-0092-9.
+
+Lesthaeghe, R. (1995). The second demographic transition in Western countries: An interpretation. In: Mason, K.O. and Jensen, A-M. (eds.). Gender and family change in industrialized countries. Oxford: Clarendon Press: 17-62.
+
+Martin, S.P. (2006). Trends in marital dissolution by women's education in the United States. Demographic Research 15(20): 537-559. doi:10.4054/DemRes.2006. 15.20.
+
+Martin, T.C. and Bumpass, L.L. (1989). Recent trends in marital disruption. Demography 26(1): 37-51. doi:10.2307/2061492.
+
+Murphy, M.J. (1985). Demographic and socio-economic influences on recent British marital breakdown patterns. Population Studies 39(3): 441-460. doi:10.1080/ 0032472031000141616.
+
+Murphy, M. (2000). The evolution of cohabitation in Britain, 1960-95. Population Studies 54(1): 43-56. doi:10.1080/713779062.
+
+
+Office for National Statistics [ONS] (2007a). General Household Survey 2005 [computer file (2nd edition); SN 5640]. Colchester, Essex: UK Data Archive [distributor]. doi:10.5255/UKDA-SN-5640-1.
+
+Office for National Statistics [ONS] (2007b). Marriage, divorce and adoption statistics [2004] (Series FM2 No. 32). London: Office for National Statistics.
+
+Office for Population Censuses and Surveys [OPCS] (1977). Marriage and divorce statistics 1974 (Series FM2 No. 1). London: Her Majesty's Stationery Office.
+
+Oppenheimer, V.K. (1988). A theory of marriage timing. American Journal of Sociology 94(3): 563-591. doi:10.1086/229030.
+
+
+Oppenheimer, V.K. (1994). Women's rising employment and the future of the family in industrialized societies. Population and Development Review 20(2): 293-342. doi:10.2307/2137521.
+
+Oppenheimer, V.K., Kalmijn, M., and Lim, N. (1997). Men's career development and marriage timing during a period of rising inequality. Demography 34(3): 311-330. doi: 10.2307/3038286.
+
+Oppenheimer, V.K. and Lew, V. (1995). American marriage formation in the 1980s: How important was women's economic independence? In: Mason, K.O. and Jensen, A-M. (eds.). Gender and family change in industrialized countries. Oxford: Clarendon Press: 105-138.
+
+Rindfuss, R.R. and Vandenheuvel, A. (1990). Cohabitation: A precursor to marriage or an alternative to being single? Population and Development Review 16(4): 703-726. doi:10.2307/1972963.
+
+Schoen, R. (2004). Timing effects and the interpretation of period fertility. Demography 41(4): 801-819. doi:10.1353/dem.2004.0036.
+
+Schoen, R. and Canudas-Romo, V. (2005). Timing effects on first marriage: Twentieth-century experience in England and Wales and the USA. Population Studies 59(2): 135-146. doi:10.1080/00324720500099124.
+
+Schoen, R. and Canudas-Romo, V. (2006). Timing effects on divorce: 20th Century experience in the United States. Journal of Marriage and Family 68(3): 749758. doi: 10.1111/j.1741-3737.2006.00287.x.
+
+South, S.J. (1995). Do you need to shop around? Age at marriage, spousal alternatives, and marital dissolution. Journal of Family Issues 16(4): 432-449. doi: 10.1177/ 019251395016004002.
+
+Teachman, J.D. (2002). Stability across cohorts in divorce risk factors. Demography 39(2): 331-351. doi:10.1353/dem.2002.0019.
+
+Thornton, A., Axinn, W.G., and Teachman, J.D. (1995). The influence of school enrollment and accumulation on cohabitation and marriage in early adulthood. American Sociological Review 60(5): 762-774. doi:10.2307/2096321.
+
+White, L.K. (1990). Determinants of divorce: A review of research in the Eighties. Journal of Marriage and the Family 52(4): 904-912. doi:10.2307/353309.
+
+Wilson, B. and Smallwood, S. (2008). The proportion of marriages ending in divorce. Population Trends 131: 28-36.
+
+Richard Lampard (1)
+
+(1) Department of Sociology, University of Warwick, Gibbet Hill Road, Coventry, West Midlands, CV4 7AL, UK. E-mail: Richard.Lampard@warwick.ac.uk.
+
+(2) e.g., Booth and Edwards (1985: 72-73) observed that the negative consequences of early marriage for marital stability were not contingent upon duration.
+
+(3) Similarly, Martin (2006: 539-545) notes that a change in the marital dissolution rate for a particular educational level may be induced by change over time in the educational rankings of individuals at that level.
+
+(4) Glenn, Uecker, and Love view their own findings as most consistent with it being absolute age that is most important, while acknowledging that relative age may also be of relevance (2010: 798).
+
+(5) However, Kiernan and Eldridge's study focused on the late 1960s and early 1970s marriage cohorts, thus predating extensive changes to women's working lives in Britain (1987: 62).
+
+(6) See also: Thornton, Axinn, and Teachman (1995); Oppenheimer, Kalmijn, and Lim (1997).
+
+(7) South (1995) further undermines the former explanation, demonstrating that "the impact of age at marriage on divorce is significantly weaker in marriage markets containing abundant remarriage opportunities" (1995: 432).
+
+(8) Discussions of other forms of change sometimes resonate with these cultural changes. For example, Glenn, Uecker, and Love (2010: 788) suggest that many observers view the process of psychological maturation during young adulthood as having slowed down, potentially resulting in increased effects of age at marriage for higher ages. Ideas about the consolidation of single lifestyles also resonate with a greater emphasis on self-identity than on coupledom (Booth and Edwards 1985: 67-69).
+
+(9) In terms of gender ideology.
+
+(10) The wife is the younger spouse for most of the marriages examined.
+
+(11) The data on ages at first marriage come from Table 3.6b (in Series FM2 Nos. 1-15 and 17-22), and the data on divorces according to age at first marriage from Table 4.6c (in Series FM2 Nos. 1-7), Table 4.5c (in Nos. 8-15 and 17-23) and Table 4.18 (in Nos. 24-32).
+
+(12) Martin (2006) similarly focuses on dissolution within ten years of (first) marriage. The information regarding divorces at later marital durations, which varies according to cohort, could, of course, be included in analyses utilizing more sophisticated (event-history) models.
+
+(13) Note that the comparability of the numerators and denominators of the divorce rates could also be affected by migration.
+
+(14) An alternative would be to examine age at marriage relative to other members of women's birth cohorts. However, the data used did not permit a birth-cohort-based analysis to be carried out.
+
+(15) Since statistical models are applied here to population data, the dependent variable needs to be conceptualized as representing the outcomes of a set of binary trials, or as corresponding to a sample of marriages drawn from a hypothetical 'superpopulation'.
+
+(16) i.e., operationalised by dividing her rank by the size of her marriage cohort.
+
+(17) Table 6 presents its values according to age at marriage category and cohort.
+
+(18) In addition, Goldstein (1999: 410) advocates analysing logarithms of divorce rates, referring to exploratory analyses indicating that period variations in duration-specific divorce rates tended be proportional rather than additive.
+
+(19) Clearly, if a woman from a given marriage cohort had married younger, she would not have belonged to that cohort. However, the 'artificial' nature of the standardised proportion divorcing does not undermine the standardisation process's ability to establish the impact of a changing age at marriage distribution upon change across cohorts in the observed proportion divorcing.
+
+(20) To facilitate the interpretation of the parameter estimates from the models representing year of marriage by a scale, it was recalibrated by setting 1974 to zero.
+
+(21) A comparison of the differences between the model fit values for Models 1 and 1a and between the model fit values for Models 2 and 2a (see Table 5) shows the improvement in fit attributable to a non-linear representation of year of marriage diminishes from 814.2 to 171.5 when age at marriage is included. (Note that (18,584.1 - 17,769.9) = 814.2, and 814.2 - (168,430.4 - 167,787.7) = 814.2 - 642.7 = 171.5).
+
+(22) Furthermore, most of the additional improvement in fit resulting from allowing the interaction effect to be non-linear can be attributed to the large number of additional degrees of freedom.
+
+(23) Assuming that changes in the impact of age at marriage viewed in absolute terms are gradual rather than rapid.
+
+(24) Only 11 step variables were included, hence the 11 degrees of freedom for the change in model fit shown in Table 5; the twelfth range acted as the point of reference, with an implicit parameter estimate of zero.
+
+(25) While the parameter estimates for the ranges 0.95-0.98 and 0.98-0.99 appear to buck the trend, the difference between them is statistically non-significant.
+
+(26) 5%, 87.5%, and 99% as turning points provide a close to optimal representation of the effect, but were also chosen because they mark out relatively straightforward proportions (i.e. 1 in 20, 1 in 8, and 1 in 100).
+
+(27) The consequences for model fit of the spline's lower number of parameters must therefore be outweighed by its capacity to allow variation in the impact of relative age at marriage within each of its segments.
+
+(28) Replacing the segment of the spline between 0.875 and 0.99 with a segment starting at any higher value leads to a non-significant improvement in model fit and/or does not lead to a markedly steeper upwards trend.
+
+(29) (0.880 - 0.710)/(0.880 - 0.468) = 0.413.
+
+(30) Rindfuss and Vandenheuvel (1990) provide interesting insights on a similar theme.
+
+(31) The data also suggested that, by 1994, only about a tenth of first marriages were preceded by a different, cohabiting relationship.
+
+
+Table 1: The proportion of first marriages of women in England and
+Wales ending in divorce by the end of the tenth subsequent calendar
+year, according to year of marriage and wife's age at marriage
+
+Year   Age at marriage
+
+       Under 20   20-24   25-29   30-34   35-39
+
+1974   0.284      0.163   0.117   0.101   0.089
+1975   0.289      0.171   0.123   0.109   0.085
+1976   0.295      0.180   0.128   0.110   0.096
+1977   0.308      0.185   0.132   0.115   0.106
+1978   0.318      0.192   0.140   0.115   0.104
+1979   0.323      0.197   0.140   0.116   0.113
+1980   0.336      0.205   0.141   0.126   0.102
+1981   0.344      0.212   0.147   0.129   0.108
+1982   0.358      0.224   0.152   0.126   0.109
+1983   0.376      0.234   0.159   0.135   0.113
+1984   0.381      0.245   0.164   0.129   0.115
+1985   0.385      0.250   0.170   0.140   0.117
+1986   0.408      0.260   0.175   0.142   0.124
+1987   0.418      0.270   0.186   0.157   0.138
+1988   0.413      0.274   0.193   0.158   0.150
+1989   0.427      0.284   0.198   0.162   0.136
+1990   0.435      0.287   0.202   0.160   0.146
+1991   0.442      0.298   0.209   0.166   0.153
+1992   0.462      0.309   0.217   0.170   0.153
+1993   0.472      0.321   0.225   0.175   0.156
+1994   0.484      0.329   0.237   0.184   0.158
+
+Year   Age at marriage
+
+       40-44   45-49   50 plus
+
+1974   0.060   0.036   0.019
+1975   0.074   0.048   0.022
+1976   0.061   0.047   0.019
+1977   0.083   0.047   0.024
+1978   0.084   0.045   0.020
+1979   0.079   0.055   0.024
+1980   0.098   0.054   0.024
+1981   0.082   0.055   0.021
+1982   0.085   0.058   0.029
+1983   0.113   0.079   0.032
+1984   0.106   0.076   0.037
+1985   0.116   0.070   0.034
+1986   0.104   0.072   0.032
+1987   0.118   0.092   0.032
+1988   0.136   0.086   0.029
+1989   0.127   0.102   0.036
+1990   0.126   0.084   0.046
+1991   0.136   0.112   0.048
+1992   0.120   0.121   0.045
+1993   0.134   0.130   0.053
+1994   0.154   0.120   0.058
+
+Table 2: The log odds of divorce by the end of the tenth subsequent
+calendar year for the first marriages of women in England and Wales,
+according to year of marriage and wife's age at marriage
+
+Year   Age at marriage
+
+       Under 20   20-24   25-29   30-34   35-39
+
+1974   -0.92      -1.63   -2.02   -2.18   -2.33
+1975   -0.90      -1.58   -1.96   -2.10   -2.38
+1976   -0.87      -1.52   -1.92   -2.09   -2.24
+1977   -0.81      -1.48   -1.88   -2.04   -2.13
+1978   -0.76      -1.44   -1.81   -2.04   -2.15
+1979   -0.74      -1.41   -1.82   -2.03   -2.06
+1980   -0.68      -1.36   -1.81   -1.94   -2.17
+1981   -0.65      -1.31   -1.76   -1.91   -2.12
+1982   -0.58      -1.24   -1.72   -1.93   -2.10
+1983   -0.51      -1.19   -1.67   -1.85   -2.06
+1984   -0.49      -1.13   -1.63   -1.91   -2.04
+1985   -0.47      -1.10   -1.58   -1.81   -2.02
+1986   -0.37      -1.05   -1.55   -1.80   -1.96
+1987   -0.33      -0.99   -1.47   -1.68   -1.83
+1988   -0.35      -0.97   -1.43   -1.67   -1.73
+1989   -0.29      -0.92   -1.40   -1.65   -1.85
+1990   -0.26      -0.91   -1.37   -1.66   -1.77
+1991   -0.23      -0.86   -1.33   -1.61   -1.71
+1992   -0.15      -0.80   -1.28   -1.58   -1.71
+1993   -0.11      -0.75   -1.23   -1.55   -1.69
+1994   -0.06      -0.71   -1.17   -1.49   -1.68
+
+Year   Age at marriage
+
+       40-44   45-49   50 plus
+
+1974   -2.76   -3.29   -3.94
+1975   -2.52   -2.99   -3.79
+1976   -2.73   -3.00   -3.96
+1977   -2.41   -3.01   -3.71
+1978   -2.39   -3.05   -3.89
+1979   -2.46   -2.84   -3.71
+1980   -2.22   -2.86   -3.70
+1981   -2.42   -2.85   -3.84
+1982   -2.38   -2.79   -3.51
+1983   -2.06   -2.46   -3.40
+1984   -2.14   -2.49   -3.25
+1985   -2.04   -2.59   -3.33
+1986   -2.15   -2.56   -3.42
+1987   -2.01   -2.29   -3.42
+1988   -1.85   -2.36   -3.51
+1989   -1.93   -2.18   -3.30
+1990   -1.94   -2.39   -3.04
+1991   -1.85   -2.07   -2.99
+1992   -1.99   -1.99   -3.05
+1993   -1.87   -1.90   -2.88
+1994   -1.70   -2.00   -2.79
+
+Table 3: The percentages of women marrying at different ages for the
+first marriages of women in England and Wales, according to year
+of marriage
+
+                          Age at marriage
+
+Year   Under 20   20-24   25-29   30-34   35-39
+
+1974    32.19     48.35   12.97   3.02    1.25
+1975    31.70     48.50   13.23   3.17    1.20
+1976    31.10     48.61   13.58   3.30    1.23
+1977    30.34     49.21   13.49   3.68    1.22
+1978    29.29     50.29   13.51   3.82    1.20
+1979    27.83     51.37   13.85   4.00    1.23
+1980    26.04     52.72   14.27   4.09    1.24
+1981    24.03     53.85   15.10   4.19    1.31
+1982    22.17     54.74   16.04   4.16    1.44
+1983    19.94     55.52   17.27   4.37    1.46
+1984    17.85     55.43   19.05   4.73    1.55
+1985    16.22     55.38   20.40   4.94    1.64
+1986    13.94     55.14   22.31   5.39    1.75
+1987    12.78     54.56   23.72   5.79    1.73
+1988    11.13     52.81   25.87   6.68    1.96
+1989    10.25     50.62   28.06   7.42    2.10
+1990     8.92     48.43   30.62   8.13    2.26
+1991     7.88     46.12   32.26   9.34    2.57
+1992     6.64     43.86   34.12   10.57   2.87
+1993     5.72     41.38   36.08   11.63   3.21
+1994     5.23     38.63   37.13   13.24   3.62
+
+                    Age at marriage
+
+Year   40-44   45-49   50 plus      n
+
+1974   0.67    0.52     1.03     304,626
+1975   0.68    0.51     1.01     298,217
+1976   0.67    0.50     1.01     276,544
+1977   0.64    0.46     0.95     272,215
+1978   0.60    0.43     0.85     276,385
+1979   0.57    0.39     0.76     277,166
+1980   0.56    0.36     0.70     277,826
+1981   0.54    0.32     0.67     263,368
+1982   0.53    0.29     0.63     255,171
+1983   0.54    0.32     0.58     256,214
+1984   0.53    0.30     0.57     260,359
+1985   0.57    0.29     0.55     258,089
+1986   0.63    0.31     0.53     256,767
+1987   0.64    0.28     0.49     262,958
+1988   0.76    0.32     0.48     256,221
+1989   0.77    0.34     0.45     254,763
+1990   0.82    0.34     0.48     243,825
+1991   0.92    0.41     0.50     224,812
+1992   0.97    0.46     0.51     225,608
+1993   1.01    0.47     0.51     214,987
+1994   1.12    0.52     0.51     206,332
+
+Table 4: Selected parameter estimates and exponentiated
+parameter estimates from selected logistic regression models
+of the risk of divorce in England and Wales (n = 5,422,453)
+
+Predictor variable       Model 1   Model 2            Model 4
+
+                         B         Exp(B)    B        Exp(B)
+
+Constant                 -1.447    0.24      -0.944   0.39
+Year = 1974                        1.00               1.00
+Year = 1994               0.468    1.60       0.880   2.41
+Age under 20                                          1.00
+Age 20-24                                    -0.659   0.52
+Age 25-29                                    -1.117   0.33
+Age 30-34                                    -1.367   0.26
+Age 35-39                                    -1.510   0.22
+Age 40-44                                    -1.678   0.19
+Age 45-49                                    -2.041   0.13
+Age 50 plus                                  -2.943   0.05
+Age 20-24 by Year
+Age 25-29 by Year
+Age 30-34 by Year
+Age 35-39 by Year
+Age 40-44 by Year
+Age 45-49 by Year
+Age 50 plus by Year
+Median ranking measure
+Additional slope
+  (range 0.00 - 0.05)
+Additional slope
+  (range 0.875 - 1.00)
+Additional slope
+  (range 0.99 - 1.00)
+
+Predictor variable                    Model 8
+
+                         B            Exp(B)     B            Exp(B)
+
+Constant                 -0.940       0.39       -0.856       0.42
+Year = 1974                           1.00                    1.00
+Year = 1994               0.877       2.40        0.710       2.03
+Age under 20                          1.00                    1.00
+Age 20-24                -0.680       0.51       -0.402       0.67
+Age 25-29                -1.092       0.34       -0.632       0.53
+Age 30-34                -1.228       0.29       -0.814       0.44
+Age 35-39                -1.391       0.25       -0.968       0.38
+Age 40-44                -1.680       0.19       -1.156       0.31
+Age 45-49                -2.261       0.10       -1.726       0.18
+Age 50 plus              -3.040       0.05       -3.095       0.05
+Age 20-24 by Year        0.002        1.00
+Age 25-29 by Year        -0.002 (a)   1.00 (a)
+Age 30-34 by Year        -0.010       0.99
+Age 35-39 by Year        -0.009       0.99
+Age 40-44 by Year        0.000 (c)    1.00 (c)
+Age 45-49 by Year        0.020        1.02
+Age 50 plus by Year      0.010 (b)    1.01 (b)
+Median ranking measure                           -0.634       0.53
+Additional slope                                 -0.194       0.82
+  (range 0.00 - 0.05)
+Additional slope                                  0.100 (b)   1.10 (b)
+  (range 0.875 - 1.00)
+Additional slope                                  0.999       2.72
+  (range 0.99 - 1.00)
+
+% of marriages ending in divorce by the end of
+the tenth subsequent calendar year = 23.6 *
+
+Notes: Exp(B) = exponentiated B. For model fit details, see Table 5.
+Year is year of marriage, with 1974 as the reference category
+(the parameter estimates for intermediate years are omitted for
+presentational reasons, but are shown graphically in Figure 3);
+Age is age at first marriage, with Age under 20 being the
+reference category. p < 0.001 for the B's, with the exception of
+(a) p < 0.01, (b) p < 0.05 and (c) p > 0.05 (Not significant).
+Each of the additional slope parameters relates
+to the amount of change over the whole of the particular
+sub-range in question.
+
+Table 5: Changes in fit between logistic regression models
+of the risk of divorce in England and Wales
+
+Model   Predictor variables       Change in   df      P
+                                  model fit
+
+1       Year                       18,584.1    20   0.000
+2       Model 1 + Age             167,787.7     7   0.000
+3       Model 2 + Age x               535.4   140   0.000
+          Year interaction
+4       Model 2 + Age x Year          294.7     7   0.000
+          (scale) interaction
+5       Model 2 + 'Step'              261.9    11   0.000
+          variables
+6       Model 5 + Age x Year           74.5     7   0.000
+          (scale) interaction
+7       Model 2 + Median              176.9     1   0.000
+          ranking measure
+8       Model 2 + Linear spline       273.4     4   0.000
+9       Model 8 + Age x Year           69.2     7   0.000
+          (scale) interaction
+10      Model 8 + Post-1986            61.4     1   0.000
+          change to spline
+1a      Year (scale)               17,769.9     1   0.000
+2a      Model 1a + Age            168,430.4     7   0.000
+
+Note: Change in model fit = Change in the -2 Log likelihood
+value; df = degrees of freedom; -2 Log likelihood value for
+model with no predictor variables = 5,921,523.3. See T
+able 4 for notes relating to some of the predictor variables.
+
+Table 6: The median ranking measure for the 5-year age at marriage
+categories, according to year of marriage, for the first marriages of
+women in England and Wales
+
+                       Age at marriage
+
+Year   Under 20   20-24   25-29   30-34
+
+1974    0.161     0.564   0.870   0.950
+1975    0.159     0.560   0.868   0.950
+1976    0.155     0.554   0.865   0.949
+1977    0.152     0.549   0.863   0.949
+1978    0.146     0.544   0.863   0.950
+1979    0.139     0.535   0.861   0.950
+1980    0.130     0.524   0.859   0.951
+1981    0.120     0.510   0.854   0.951
+1982    0.111     0.495   0.849   0.950
+1983    0.100     0.477   0.841   0.949
+1984    0.089     0.456   0.828   0.947
+1985    0.081     0.439   0.818   0.945
+1986    0.070     0.415   0.802   0.941
+1987    0.064     0.401   0.792   0.940
+1988    0.056     0.375   0.769   0.931
+1989    0.051     0.356   0.749   0.926
+1990    0.045     0.331   0.727   0.920
+1991    0.039     0.309   0.701   0.909
+1992    0.033     0.286   0.676   0.899
+1993    0.029     0.264   0.651   0.890
+1994    0.026     0.245   0.624   0.876
+
+                    Age at marriage
+
+Year   35-39   40-44   45-49   50 plus
+
+1974   0.972   0.981   0.987    0.995
+1975   0.972   0.981   0.987    0.995
+1976   0.972   0.982   0.987    0.995
+1977   0.973   0.983   0.988    0.995
+1978   0.975   0.984   0.989    0.996
+1979   0.977   0.986   0.990    0.996
+1980   0.978   0.987   0.991    0.996
+1981   0.978   0.987   0.992    0.997
+1982   0.978   0.988   0.992    0.997
+1983   0.978   0.988   0.993    0.997
+1984   0.978   0.989   0.993    0.997
+1985   0.978   0.989   0.993    0.997
+1986   0.977   0.988   0.993    0.997
+1987   0.977   0.989   0.994    0.998
+1988   0.975   0.988   0.994    0.998
+1989   0.974   0.988   0.994    0.998
+1990   0.972   0.988   0.993    0.998
+1991   0.969   0.986   0.993    0.997
+1992   0.966   0.985   0.993    0.997
+1993   0.964   0.985   0.993    0.997
+1994   0.960   0.984   0.992    0.997
+
+Note: The median ranking measure is defined as the median
+proportional ranking of the ages at marriage of the women
+within the age at marriage category in question.
+Copyright: COPYRIGHT 2013 Max Planck Institute for Demographic Research
+http://www.demographic-research.org/
+Source Citation
+Source Citation   
+MLA 9th Edition APA 7th Edition Chicago 17th Edition Harvard
+Lampard, Richard. "Age at marriage and the risk of divorce in England and Wales." Demographic Research, vol. 29, July-Dec. 2013, pp. 167+. Gale Academic OneFile, link.gale.com/apps/doc/A366239482/AONE?u=byuprovo&sid=bookmark-AONE&xid=e2a50d93. Accessed 3 Dec. 2023.
+DisclaimerSelect
+Export To:
+
+NoodleTools 
+EasyBib 
+RefWorks 
+Google Drive™ 
+OneDrive™ 
+Download RIS*
+*The RIS file format can be used with EndNote, ProCite, Reference Manager, and Zotero.
+Gale Document Number: GALE|A366239482
+
+MORE LIKE THIS
+MARRIAGE, DIVORCE, AND LEGAL CHANGE: NEW EVIDENCE FROM ENGLAND AND WALES
+Economic Inquiry, Apr. 2001.
+On the mutual causalities between age at marriage and divorce
+Atlantic Economic Journal, Mar. 1989.
+Marriage and divorce American style: a destructive marriage is not a happy family. (Cover Story)
+The American Prospect, Apr. 8, 2002.
+View All Related Articles
+EXPLORE
+More Like This
+MARRIAGE, DIVORCE, AND LEGAL CHANGE: NEW EVIDENCE FROM ENGLAND AND WALES
+Economic Inquiry, Apr. 2001.
+On the mutual causalities between age at marriage and divorce
+Atlantic Economic Journal, Mar. 1989.
+Marriage and divorce American style: a destructive marriage is not a happy family. (Cover Story)
+The American Prospect, Apr. 8, 2002.
+View All Related Articles
+Related Subjects
+Age of consent
+Divorce
+Married women
+Gale Logo
+Footer
+ABOUT HELPDICTIONARYCONTACT USTERMS OF USEPRIVACY POLICYACCESSIBILITYEND SESSION
+
