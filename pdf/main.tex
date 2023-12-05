@@ -11,9 +11,9 @@
 \usepackage{authblk}
 
 % Title and authors
-\title{Word Count Analysis in Scholarly Papers}
+\title{Heavenly Insights from Heavenly Words: Word Frequency Analysis on Marriage and Family Articles}
 \author[1]{Weston Smith}
-\affil[1]{wms29@byu.edu}
+\affil{wms29@byu.edu}
 % \affil[2]{Co-author's Affiliation, Co-author's Email}
 
 \date{\today}
@@ -57,12 +57,13 @@ After the articles were gathered, they were split into words. All non-alpha char
     \item "Family children"
 \end{itemize}
 
-This methodology allowed the collection of 25 articles: 20 about marriage and 5 about family. These articles were then parsed, and the word count was calculated. This was done by using the Python library "Beautiful Soup" to parse the HTML and then using the Python library "Natural Language Toolkit" to tokenize the words and then count them. This was then compared to the word count of the General Conference articles. The word count was then normalized by dividing the word count by the total number of words in the article. This allowed for a comparison of the relative frequency of words in the articles. This was then compared to the word count of the General Conference articles. The word count was then normalized by dividing the word count by the total number of words in the article. This allowed for a comparison of the word frequency in the articles. The collection of scholarly articles posed some interesting problems. One of these was my own bias in the selection and overemphasis of a topic. This happened when certain search engines and databases were used, including the Standard Database from the Brigham Young University library and the Google Scholar search engine. This is because there were large clusterings on certain topics that were determined to pose a danger to the results. For example, there was a dearth of articles about gay marriage; such articles would have different subjects than articles about marriage and the family in other contexts and would often focus on legislative challenges instead of internal challenges, including happiness and satisfaction. The call was made to limit the number of articles on the subject and to avoid using such keywords to try and find other types of articles.
+This methodology allowed the collection of 25 articles: 20 about marriage and 5 about family. These articles were then parsed, and the word count was calculated. This was done by using the Python library "Beautiful Soup" to parse the HTML and then using the Python library "Natural Language Toolkit" to tokenize the words and then count them. This was then compared to the word count of the General Conference articles. The word count was then normalized by dividing the word count by the total number of words in the article. This allowed relative comparison between different articles and relative word count between scholarly and church articles. In the end, the raw frequency number wasn’t used but instead the position it was in the ranking of how common it was.
+
+The collection of scholarly articles posed some interesting problems. One of these was my own bias in the selection and overemphasis of a topic. This happened when certain search engines and databases were used, including the Standard Database from the Brigham Young University library and the Google Scholar search engine. This is because there were large clusterings on certain topics that were determined to pose a danger to the results. For example, there was a dearth of articles about gay marriage; such articles would have different subjects than articles about marriage and the family in other contexts and would often focus on legislative challenges instead of internal challenges, including happiness and satisfaction. The call was made to limit the number of articles on the subject and to avoid using such keywords to try and find other types of articles.
 
 \section{Results}
 % Your results here
-The results of the analysis show that there is a significant difference in the words used between scholarly articles and articles of \church. Most interestingly, the difference between \church and scholarly articles is not as large as the difference between scholarly articles and scholarly articles on the same subject, which was much greater than the difference of words between scholarly articles on different subjects or articles from \church on different subjects. This shows significant differences in focus that will be analyzed later on.
-\begin{table}[h] % [h] means 'here', allowing the table to be placed here in the document
+\begin{table*}[h] % [h] means 'here', allowing the table to be placed here in the document
     \centering
     \caption{Sentiment Analysis of Common Words}
     \label{tab:example}
@@ -83,7 +84,10 @@ The results of the analysis show that there is a significant difference in the w
 
         \hline
     \end{tabular}
-\end{table}
+\end{table*}
+
+The results of the analysis show that there is a significant difference in the words used between scholarly articles and articles of \church. Most interestingly, the difference between \church and scholarly articles is not as large as the difference between scholarly articles and scholarly articles on the same subject, which was much greater than the difference of words between scholarly articles on different subjects or articles from \church on different subjects. This shows significant differences in focus that will be analyzed later on.
+
 
 This table shows a sentiment analysis of the sixty most common words for each type of article. The percent value is the confidence value that the sentiment type is correct. So there is a 63.1\% confidence that the top sixty most common words for scholarly articles have a negative sentiment. This shows a clear distinction between the sentiment of scholars and Church articles. Church articles are much more positive, while scholarly articles are much more negative.
 %insert figure
